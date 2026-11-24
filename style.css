@@ -1,0 +1,565 @@
+/* Dabang Inspired Aesthetic Dashboard Theme for Phuc An Retail */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=Nunito:wght@400;600;700;800;900&display=swap');
+
+:root {
+  --font-main: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-rounded: 'Nunito', sans-serif;
+  
+  /* Dabang Color Palette */
+  --dabang-bg: #FCEEF3;
+  --dabang-card: #FFFFFF;
+  --dabang-primary: #FF5B8E;
+  --dabang-primary-hover: #FA4379;
+  --dabang-border: #FAD2E1;
+  --dabang-text-dark: #1E293B;
+  --dabang-text-muted: #737791;
+  --dabang-text-subtle: #94A3B8;
+
+  /* Mini-Card Pastel Colors */
+  --card-pink-bg: #FFE2E5;
+  --card-pink-accent: #FA5A7D;
+  --card-orange-bg: #FFF4DE;
+  --card-orange-accent: #FF947A;
+  --card-green-bg: #DCFCE7;
+  --card-green-accent: #3CD856;
+  --card-purple-bg: #F3E8FF;
+  --card-purple-accent: #BF83FF;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--dabang-bg);
+  color: var(--dabang-text-dark);
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Rounded Cards */
+.dabang-card {
+  background: var(--dabang-card);
+  border-radius: 1.5rem; /* 24px */
+  border: 1px solid rgba(250, 210, 225, 0.6);
+  box-shadow: 0 10px 30px -5px rgba(255, 91, 142, 0.06), 0 2px 6px -1px rgba(0, 0, 0, 0.02);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dabang-card:hover {
+  box-shadow: 0 14px 35px -5px rgba(255, 91, 142, 0.12);
+}
+
+/* Nav Link Styling */
+.dabang-nav-item {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  white-space: nowrap;
+  gap: 0.75rem;
+  padding: 0.78rem 1rem;
+  border-radius: 1rem;
+  color: var(--dabang-text-muted);
+  font-weight: 600;
+  font-size: 0.8125rem;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.dabang-nav-item:hover {
+  color: var(--dabang-primary);
+  background: rgba(255, 91, 142, 0.08);
+}
+
+.dabang-nav-item.active {
+  background: var(--dabang-primary);
+  color: #FFFFFF !important;
+  box-shadow: 0 8px 20px -3px rgba(255, 91, 142, 0.35);
+}
+
+.dabang-nav-item.active i {
+  color: #FFFFFF !important;
+}
+
+/* Custom Scrollbars in Soft Pink */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FFF0F5;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #FFB3C7;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #FF8DAA;
+}
+
+/* Primary Pink Action Buttons */
+.btn-dabang-primary {
+  background: linear-gradient(135deg, #FF5B8E 0%, #FA527F 100%);
+  color: #FFFFFF;
+  font-weight: 700;
+  border-radius: 0.875rem;
+  box-shadow: 0 4px 14px rgba(255, 91, 142, 0.3);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  border: none;
+}
+
+.btn-dabang-primary:hover {
+  background: linear-gradient(135deg, #FA4379 0%, #FF5B8E 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(255, 91, 142, 0.4);
+}
+
+.btn-dabang-primary:active {
+  transform: scale(0.98);
+}
+
+/* Phase Tab active states */
+.phase-tab {
+  background: #FFFFFF;
+  border: 1.5px solid #FFE4EC;
+  border-radius: 1.25rem;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.phase-tab:hover {
+  border-color: #FFB3C7;
+  transform: translateY(-1px);
+}
+
+.phase-tab.active {
+  background: #FFF0F5 !important;
+  border-color: #FF5B8E !important;
+  box-shadow: 0 8px 20px -3px rgba(255, 91, 142, 0.2);
+}
+
+.phase-tab.active .step-num {
+  background: linear-gradient(135deg, #FF5B8E 0%, #FF80AB 100%) !important;
+  color: #FFFFFF !important;
+  box-shadow: 0 4px 10px rgba(255, 91, 142, 0.3);
+}
+
+.phase-tab.completed {
+  background: #F0FDF4 !important;
+  border-color: #86EFAC !important;
+}
+
+.phase-tab.completed .step-num {
+  background: #10B981 !important;
+  color: #FFFFFF !important;
+}
+
+/* Animations */
+@keyframes pulseSubtle {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(1.03); }
+}
+
+.animate-subtle {
+  animation: pulseSubtle 3s infinite ease-in-out;
+}
+
+/* ============================================== */
+/* DARK MODE (Dabang Cyber Rose Luxury Theme)     */
+/* ============================================== */
+body.dark-mode {
+  --dabang-bg: #120A13;
+  --dabang-card: #1C111E;
+  --dabang-border: #382038;
+  --dabang-text-dark: #F8FAFC;
+  --dabang-text-muted: #CBD5E1;
+  --dabang-text-subtle: #94A3B8;
+  background-color: #120A13 !important;
+  color: #F8FAFC !important;
+}
+
+body.dark-mode aside {
+  background-color: #180E1A !important;
+  border-color: #382038 !important;
+}
+
+body.dark-mode header {
+  background-color: rgba(18, 10, 19, 0.92) !important;
+}
+
+body.dark-mode .dabang-card {
+  background-color: #1C111E !important;
+  border-color: #382038 !important;
+  color: #F8FAFC !important;
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .bg-white {
+  background-color: #1C111E !important;
+}
+
+body.dark-mode .border-\[\#FAD2E1\],
+body.dark-mode .border-\[\#FFE4EC\],
+body.dark-mode .border-\[\#FDF0F4\] {
+  border-color: #382038 !important;
+}
+
+body.dark-mode .text-\[\#1E293B\],
+body.dark-mode .text-slate-900,
+body.dark-mode .text-slate-800 {
+  color: #F8FAFC !important;
+}
+
+body.dark-mode .text-slate-700,
+body.dark-mode .text-slate-600,
+body.dark-mode .text-slate-500 {
+  color: #CBD5E1 !important;
+}
+
+body.dark-mode .text-slate-400 {
+  color: #94A3B8 !important;
+}
+
+body.dark-mode input,
+body.dark-mode select,
+body.dark-mode textarea {
+  background-color: #241628 !important;
+  border-color: #382038 !important;
+  color: #F8FAFC !important;
+}
+
+body.dark-mode input::placeholder,
+body.dark-mode textarea::placeholder {
+  color: #64748B !important;
+}
+
+body.dark-mode .bg-\[\#FFFBFD\],
+body.dark-mode .bg-\[\#FFF5F8\],
+body.dark-mode .bg-\[\#FFF0F5\] {
+  background-color: #241628 !important;
+}
+
+body.dark-mode .bg-slate-50,
+body.dark-mode .bg-slate-100 {
+  background-color: #28192D !important;
+}
+
+body.dark-mode .hover\:bg-slate-50:hover,
+body.dark-mode .hover\:bg-\[\#FFF0F5\]:hover {
+  background-color: #2E1D33 !important;
+}
+
+body.dark-mode .phase-tab {
+  background-color: #1C111E !important;
+  border-color: #382038 !important;
+}
+
+body.dark-mode .phase-tab.active {
+  background: #2D1A30 !important;
+  border-color: #FF5B8E !important;
+}
+
+body.dark-mode #welcome-card {
+  background-color: #180E1A !important;
+  border-color: #382038 !important;
+  color: #F8FAFC !important;
+}
+
+body.dark-mode #welcome-modal-overlay {
+  background-color: rgba(18, 10, 19, 0.95) !important;
+}
+
+/* Dark mode pastel mini cards */
+body.dark-mode .bg-\[\#FFE2E5\] {
+  background-color: #361421 !important;
+}
+body.dark-mode .bg-\[\#FFF4DE\] {
+  background-color: #361F12 !important;
+}
+body.dark-mode .bg-\[\#DCFCE7\] {
+  background-color: #122F1E !important;
+}
+body.dark-mode .bg-\[\#F3E8FF\] {
+  background-color: #2A143D !important;
+}
+
+/* ============================================== */
+/* WELCOME CARD NATURAL GLASS & MOTION FX         */
+/* ============================================== */
+@keyframes welcomeEntrance {
+  0% {
+    opacity: 0;
+    transform: translateY(18px) scale(0.97);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px) scale(1);
+  }
+}
+
+@keyframes btnShimmerSweep {
+  0% { transform: translateX(-160%) skewX(-22deg); }
+  38%, 100% { transform: translateX(260%) skewX(-22deg); }
+}
+
+@keyframes livePing {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.85;
+  }
+  75%, 100% {
+    transform: scale(2.2);
+    opacity: 0;
+  }
+}
+
+.welcome-card-animated {
+  animation: welcomeEntrance 0.65s cubic-bezier(0.22, 1, 0.36, 1) both;
+  box-shadow: 0 28px 64px -16px rgba(255, 91, 142, 0.25), 0 12px 28px -10px rgba(255, 160, 190, 0.22);
+  transition: transform 0.28s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.28s ease;
+  will-change: transform;
+}
+
+.welcome-glass-sheen {
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  mix-blend-mode: soft-light;
+}
+
+.welcome-card-animated:hover .welcome-glass-sheen {
+  opacity: 1;
+}
+
+.welcome-btn-hotspot {
+  transition: transform 0.24s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.24s ease, background-color 0.24s ease;
+}
+
+.welcome-btn-hotspot:hover {
+  transform: translateY(-2px) scale(1.025);
+  box-shadow: 0 12px 28px -6px rgba(255, 91, 142, 0.48);
+}
+
+.welcome-btn-hotspot:active {
+  transform: translateY(0px) scale(0.975);
+}
+
+.welcome-btn-shimmer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 42%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.36), transparent);
+  animation: btnShimmerSweep 4.2s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.welcome-live-ping::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background-color: #10B981;
+  animation: livePing 1.8s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* ============================================== */
+/* PAGE / STEP TRANSITION ANIMATIONS              */
+/* ============================================== */
+@keyframes pageEnterSlide {
+  0% {
+    opacity: 0;
+    transform: translateY(16px) scale(0.992);
+    filter: blur(2px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+.page-transition-enter {
+  animation: pageEnterSlide 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+  will-change: transform, opacity;
+}
+
+#page-transition-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  opacity: 0;
+  z-index: 100;
+  pointer-events: none;
+  background: linear-gradient(90deg, #FF5B8E, #FA709A, #FFB26B);
+  box-shadow: 0 0 10px rgba(255, 91, 142, 0.5);
+  transition: width 0.38s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.25s ease;
+}
+
+/* ============================================== */
+/* MY MELODY ANIMATED MASCOT & PAGE DECOR         */
+/* ============================================== */
+@keyframes mymelodyBob {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-7px) rotate(1.5deg); }
+}
+
+@keyframes mymelodyEarLeft {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(-6deg); }
+}
+
+@keyframes mymelodyEarRight {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(7deg); }
+}
+
+@keyframes mymelodyBlink {
+  0%, 92%, 100% { transform: scaleY(1); }
+  96% { transform: scaleY(0.12); }
+}
+
+@keyframes mymelodyPeek {
+  0%, 100% { transform: translateY(0px) rotate(-2deg); }
+  50% { transform: translateY(-5px) rotate(2deg); }
+}
+
+.mymelody-mascot-svg {
+  animation: mymelodyBob 3.4s ease-in-out infinite;
+  filter: drop-shadow(0 8px 18px rgba(255, 91, 142, 0.28));
+  transform-origin: center bottom;
+}
+
+.mymelody-ear-left {
+  transform-origin: 42px 44px;
+  animation: mymelodyEarLeft 2.8s ease-in-out infinite;
+}
+
+.mymelody-ear-right {
+  transform-origin: 78px 44px;
+  animation: mymelodyEarRight 2.8s ease-in-out infinite;
+}
+
+.mymelody-eye {
+  transform-origin: center;
+  transform-box: fill-box;
+  animation: mymelodyBlink 4.2s ease-in-out infinite;
+}
+
+.mymelody-peek-badge {
+  animation: mymelodyPeek 4.5s ease-in-out infinite;
+}
+
+/* Soft My Melody Pastel Background Wallpaper */
+body {
+  background-color: #FCEEF3;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180' viewBox='0 0 180 180'%3E%3Cg opacity='0.14'%3E%3Cellipse cx='44' cy='38' rx='7' ry='15' transform='rotate(-14 44 38)' fill='%23FF85B3'/%3E%3Cellipse cx='68' cy='40' rx='7' ry='14' transform='rotate(16 68 40)' fill='%23FF85B3'/%3E%3Cellipse cx='56' cy='58' rx='20' ry='16' fill='%23FF85B3'/%3E%3Cellipse cx='56' cy='60' rx='14' ry='11' fill='%23FFFFFF'/%3E%3Ccircle cx='50' cy='59' r='1.8' fill='%23D94680'/%3E%3Ccircle cx='62' cy='59' r='1.8' fill='%23D94680'/%3E%3Cellipse cx='56' cy='62' rx='2' ry='1.4' fill='%23FFD166'/%3E%3Cpath d='M132 118 C132 112 140 112 140 118 C140 124 132 128 132 128 C132 128 124 124 124 118 C124 112 132 112 132 118 Z' fill='%23FF85B3'/%3E%3Cellipse cx='128' cy='42' rx='6' ry='4' fill='%23FF5B8E'/%3E%3Cellipse cx='142' cy='42' rx='6' ry='4' fill='%23FF5B8E'/%3E%3Ccircle cx='135' cy='42' r='3' fill='%23FFD1E3'/%3E%3C/g%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+/* Animated Peeking My Melody clinging onto flow cards & tabs */
+.mymelody-peek {
+  position: relative;
+}
+
+.mymelody-peek::after {
+  content: "";
+  position: absolute;
+  top: -26px;
+  right: 16px;
+  width: 54px;
+  height: 44px;
+  pointer-events: none;
+  z-index: 25;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 110 90'%3E%3Cellipse cx='34' cy='24' rx='10' ry='21' transform='rotate(-15 34 24)' fill='%23FF85B3' stroke='%23D94680' stroke-width='2.5'/%3E%3Cellipse cx='34' cy='25' rx='5' ry='13' transform='rotate(-15 34 25)' fill='%23FFD1E3'/%3E%3Cellipse cx='76' cy='25' rx='10' ry='20' transform='rotate(16 76 25)' fill='%23FF85B3' stroke='%23D94680' stroke-width='2.5'/%3E%3Cellipse cx='76' cy='26' rx='5' ry='12' transform='rotate(16 76 26)' fill='%23FFD1E3'/%3E%3Cg transform='translate(62 16) rotate(12)'%3E%3Cellipse cx='0' cy='7' rx='7' ry='5' fill='%23FF4D8D' stroke='%23C82D67' stroke-width='2'/%3E%3Cellipse cx='15' cy='7' rx='7' ry='5' fill='%23FF4D8D' stroke='%23C82D67' stroke-width='2'/%3E%3Ccircle cx='7.5' cy='7' r='4' fill='%23FF85B3' stroke='%23C82D67' stroke-width='2'/%3E%3C/g%3E%3Cellipse cx='55' cy='58' rx='31' ry='25' fill='%23FF85B3' stroke='%23D94680' stroke-width='2.5'/%3E%3Cellipse cx='55' cy='61' rx='22' ry='17' fill='%23FFFFFF' stroke='%23D94680' stroke-width='2'/%3E%3Cellipse cx='44' cy='59' rx='2.8' ry='3.6' fill='%233B1D2E'/%3E%3Cellipse cx='66' cy='59' rx='2.8' ry='3.6' fill='%233B1D2E'/%3E%3Cellipse cx='37' cy='65' rx='4' ry='2.2' fill='%23FFB3CE'/%3E%3Cellipse cx='73' cy='65' rx='4' ry='2.2' fill='%23FFB3CE'/%3E%3Cellipse cx='55' cy='63' rx='2.8' ry='2' fill='%23FFD166'/%3E%3Cpath d='M51 67 Q55 70 59 67' stroke='%233B1D2E' stroke-width='1.8' stroke-linecap='round' fill='none'/%3E%3Cellipse cx='33' cy='81' rx='7' ry='5' fill='%23FFFFFF' stroke='%23D94680' stroke-width='2'/%3E%3Cellipse cx='77' cy='81' rx='7' ry='5' fill='%23FFFFFF' stroke='%23D94680' stroke-width='2'/%3E%3C/svg%3E");
+  animation: mymelodyPeek 4.2s ease-in-out infinite;
+  filter: drop-shadow(0 4px 8px rgba(255, 91, 142, 0.22));
+}
+
+/* Direct Inline Editing Styling for Web Executive Report */
+#web-executive-report-body.web-report-editing {
+  outline: 2px dashed #F59E0B;
+  outline-offset: -6px;
+  background-color: #FFFDF7;
+  cursor: text;
+}
+
+#web-executive-report-body.web-report-editing [id^="wr-sec-"],
+#web-executive-report-body.web-report-editing .custom-report-note {
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+#web-executive-report-body.web-report-editing [id^="wr-sec-"]:hover,
+#web-executive-report-body.web-report-editing .custom-report-note:hover {
+  border-color: #F59E0B;
+  box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.14);
+}
+
+/* Clean Print & PDF Output Rules (Prints ONLY the Web Executive Report) */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm;
+  }
+
+  body {
+    background: #FFFFFF !important;
+    color: #0F172A !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  aside,
+  header,
+  .no-print,
+  #page-transition-bar,
+  #star-trail-canvas,
+  #welcome-modal-overlay,
+  #auth-modal-overlay,
+  #profile-modal-overlay,
+  #step1-main-section,
+  #step4-subnav-bar,
+  #step4-page-footer,
+  #web-report-header-bar,
+  #web-report-edit-toolbar,
+  #mymelody-companion,
+  #ai-chat-drawer,
+  #toast-notification,
+  #decision-modal,
+  #verification-choice-modal {
+    display: none !important;
+  }
+
+  main,
+  #subsequent-steps-container,
+  #bpmn-main-card,
+  #panel-phase3,
+  #step4-page-4-content,
+  #web-executive-report-panel,
+  #web-executive-report-body {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: #FFFFFF !important;
+    outline: none !important;
+  }
+
+  #web-executive-report-body > div {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin-bottom: 12px !important;
+  }
+}

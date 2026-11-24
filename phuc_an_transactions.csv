@@ -1,0 +1,1008 @@
+Ma_Giao_Dich,Thoi_Gian_Giao_Dich,Ma_Cua_Hang,Ten_Cua_Hang,Ma_SanPham,Ten_SanPham,So_Luong,Don_Gia,Tong_Tien,Trang_Thai,Ma_Giao_Dich_Goc,Danh_Muc,Ma_Khach_Hang,Ly_Do_Doi_Tra,So_Tien_Hoan
+TXN10001,2026-09-01 08:15:00,ST01,Phúc An Ba Đình,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1039,,0
+TXN10002,2026-09-01 09:30:00,ST01,Phúc An Ba Đình,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1029,,0
+TXN10003,2026-09-01 10:12:00,ST02,Phúc An Cầu Giấy,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1015,,0
+TXN10004,2026-09-01 11:45:00,ST02,Phúc An Cầu Giấy,PRD05,Áo thun cotton trẻ em,4,65000,260000,Cancelled,,Thời trang & Phụ kiện,CUST_1043,,0
+TXN10005,2026-09-01 14:20:00,ST03,Phúc An Đống Đa,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1008,,0
+TXN10005,2026-09-01 14:20:00,ST03,Phúc An Đống Đa,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1021,,0
+TXN10006,2026-09-02 09:00:00,ST04,Phúc An Hai Bà Trưng,PRD19,Ghế rung mẫu mới 2026,1,1200000,1200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1039,,0
+TXN10008,2026-09-03 16:30:00,ST01,Phúc An Ba Đình,PRD01,Sữa bột trẻ em 900g,-1,420000,-420000,Returned,TXN10001,Sữa & Thực phẩm ăn dặm,CUST_1019,Khách đổi ý,420000
+TXN10010,2026-09-21 09:01:00,ST09,Phúc An Bắc Từ Liêm,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1023,,0
+TXN10011,2026-09-24 09:43:00,ST18,Phúc An Cần Thơ,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1011,,0
+TXN10012,2026-09-02 08:05:00,ST07,Phúc An Hà Đông,PRD08,Sách vải tương tác,5,50000,250000,Completed,,Đồ chơi & Sách giáo dục,CUST_1011,,0
+TXN10013,2026-09-01 16:12:00,ST18,Phúc An Cần Thơ,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1024,,0
+TXN10014,2026-09-19 12:51:00,ST01,Phúc An Ba Đình,PRD06,Quần jean bé trai,4,120000,480000,Cancelled,,Thời trang & Phụ kiện,CUST_1036,,0
+TXN10015,2026-09-11 12:09:00,ST07,Phúc An Hà Đông,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1040,,0
+TXN10016,2026-09-13 09:22:00,ST12,Phúc An Bắc Ninh,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1024,,0
+TXN10017,2026-09-24 15:34:00,ST04,Phúc An Hai Bà Trưng,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1003,,0
+TXN10018,2026-09-10 18:39:00,ST12,Phúc An Bắc Ninh,PRD19,Ghế rung mẫu mới 2026,1,1200000,1200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1022,,0
+TXN10019,2026-09-02 18:14:00,ST10,Phúc An Hải Phòng,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1002,,0
+TXN10020,2026-09-13 12:29:00,ST12,Phúc An Bắc Ninh,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1024,,0
+TXN10021,2026-09-07 18:17:00,ST03,Phúc An Đống Đa,PRD20,Sữa dê hữu cơ 400g,2,350000,700000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1044,,0
+TXN10022,2026-09-18 19:15:00,ST06,Phúc An Hoàn Kiếm,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1030,,0
+TXN10023,2026-09-21 19:35:00,ST08,Phúc An Nam Từ Liêm,PRD11,Khăn giấy ướt cao cấp,-1,25000,-25000,Returned,TXN_UNMATCHED_9824,Tã & Vệ sinh,CUST_1038,Hết hạn sử dụng,25000
+TXN10024,2026-09-11 14:17:00,ST03,Phúc An Đống Đa,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Completed,,Đồ chơi & Sách giáo dục,CUST_1002,,0
+TXN10025,2026-09-07 18:31:00,ST13,Phúc An Đà Nẵng,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1021,,0
+TXN10026,2026-09-05 11:47:00,ST18,Phúc An Cần Thơ,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1033,,0
+TXN10027,2026-09-14 17:25:00,ST12,Phúc An Bắc Ninh,PRD08,Sách vải tương tác,5,50000,250000,Completed,,Đồ chơi & Sách giáo dục,CUST_1012,,0
+TXN10028,2026-09-16 09:48:00,ST02,Phúc An Cầu Giấy,PRD04,Xe đẩy gấp gọn cao cấp,2,1800000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1022,,0
+TXN10029,2026-09-26 18:27:00,ST03,Phúc An Đống Đa,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1044,,0
+TXN10030,2026-09-15 16:16:00,ST18,Phúc An Cần Thơ,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1025,,0
+TXN10031,2026-09-22 16:48:00,ST09,Phúc An Bắc Từ Liêm,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1049,,0
+TXN10032,2026-09-14 10:29:00,ST01,Phúc An Ba Đình,PRD09,Vitamin D3 K2 Drops,2,240000,480000,Completed,,Chăm sóc sức khỏe,CUST_1027,,0
+TXN10033,2026-09-17 09:55:00,ST10,Phúc An Hải Phòng,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1042,,0
+TXN10034,2026-09-05 13:48:00,ST06,Phúc An Hoàn Kiếm,PRD18,Ghế ngồi ăn dặm,-1,450000,-450000,Returned,TXN10032,Đồ dùng & Thiết bị cho bé,CUST_1028,Bao bì hư hỏng khi vận chuyển,450000
+TXN10035,2026-09-01 09:59:00,ST12,Phúc An Bắc Ninh,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1016,,0
+TXN10036,2026-09-08 17:05:00,ST03,Phúc An Đống Đa,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1015,,0
+TXN10037,2026-09-25 10:08:00,ST16,Phúc An Quận 1,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10038,2026-09-17 17:27:00,ST07,Phúc An Hà Đông,PRD18,Ghế ngồi ăn dặm,-2,450000,-900000,Returned,TXN10024,Đồ dùng & Thiết bị cho bé,CUST_1044,Khách đổi ý,900000
+TXN10039,2026-09-15 16:28:00,ST04,Phúc An Hai Bà Trưng,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1003,,0
+TXN10040,2026-09-11 08:37:00,ST18,Phúc An Cần Thơ,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1037,,0
+TXN10041,2026-09-01 09:45:00,ST02,Phúc An Cầu Giấy,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1007,,0
+TXN10042,2026-09-28 13:04:00,ST17,Phúc An Tân Bình,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1021,,0
+TXN10043,2026-09-07 16:08:00,ST16,Phúc An Quận 1,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1009,,0
+TXN10044,2026-09-07 09:06:00,ST14,Phúc An Huế,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1039,,0
+TXN10045,2026-09-15 19:03:00,ST04,Phúc An Hai Bà Trưng,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1018,,0
+TXN10046,2026-09-26 09:15:00,ST07,Phúc An Hà Đông,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1004,,0
+TXN10047,2026-09-05 14:11:00,ST09,Phúc An Bắc Từ Liêm,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1025,,0
+TXN10048,2026-09-15 20:55:00,ST18,Phúc An Cần Thơ,PRD04,Xe đẩy gấp gọn cao cấp,5,1800000,9000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1014,,0
+TXN10049,2026-09-27 08:05:00,ST08,Phúc An Nam Từ Liêm,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1050,,0
+TXN10050,2026-09-16 11:55:00,ST13,Phúc An Đà Nẵng,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1009,,0
+TXN10051,2026-09-01 14:16:00,ST15,Phúc An Nha Trang,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10052,2026-09-22 19:31:00,ST05,Phúc An Thanh Xuân,PRD07,Đồ chơi xếp hình thông minh,2,150000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1002,,0
+TXN10053,2026-09-02 17:47:00,ST18,Phúc An Cần Thơ,PRD02,Tã dán size L 54 miếng,-1,260000,-260000,Returned,TXN10031,Tã & Vệ sinh,CUST_1020,Bao bì hư hỏng khi vận chuyển,260000
+TXN10054,2026-09-17 16:10:00,ST02,Phúc An Cầu Giấy,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10055,2026-09-03 17:04:00,ST08,Phúc An Nam Từ Liêm,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1047,,0
+TXN10056,2026-09-08 17:38:00,ST02,Phúc An Cầu Giấy,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1007,,0
+TXN10057,2026-09-22 17:36:00,ST17,Phúc An Tân Bình,PRD11,Khăn giấy ướt cao cấp,2,25000,50000,Completed,,Tã & Vệ sinh,CUST_1044,,0
+TXN10058,2026-09-22 19:20:00,ST08,Phúc An Nam Từ Liêm,PRD09,Vitamin D3 K2 Drops,2,240000,480000,Completed,,Chăm sóc sức khỏe,CUST_1008,,0
+TXN10059,2026-09-22 18:19:00,ST15,Phúc An Nha Trang,PRD11,Khăn giấy ướt cao cấp,-1,25000,-25000,Returned,TXN10037,Tã & Vệ sinh,CUST_1047,Giao sai sản phẩm,25000
+TXN10060,2026-09-04 09:34:00,ST07,Phúc An Hà Đông,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10061,2026-09-12 09:56:00,ST08,Phúc An Nam Từ Liêm,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1014,,0
+TXN10062,2026-09-15 16:45:00,ST10,Phúc An Hải Phòng,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1017,,0
+TXN10063,2026-09-01 18:52:00,ST18,Phúc An Cần Thơ,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1036,,0
+TXN10064,2026-09-05 12:07:00,ST04,Phúc An Hai Bà Trưng,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1050,,0
+TXN10065,2026-09-10 17:13:00,ST11,Phúc An Quảng Ninh,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1040,,0
+TXN10066,2026-09-17 15:16:00,ST02,Phúc An Cầu Giấy,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1004,,0
+TXN10067,2026-09-27 12:02:00,ST01,Phúc An Ba Đình,PRD11,Khăn giấy ướt cao cấp,-2,25000,-50000,Returned,TXN10057,Tã & Vệ sinh,CUST_1002,Bao bì hư hỏng khi vận chuyển,50000
+TXN10068,2026-09-18 19:27:00,ST18,Phúc An Cần Thơ,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1006,,0
+TXN10069,2026-09-23 10:34:00,ST02,Phúc An Cầu Giấy,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1042,,0
+TXN10070,2026-09-05 14:08:00,ST02,Phúc An Cầu Giấy,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1004,,0
+TXN10071,2026-09-12 11:43:00,ST08,Phúc An Nam Từ Liêm,PRD04,Xe đẩy gấp gọn cao cấp,5,1800000,9000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1029,,0
+TXN10072,2026-09-28 14:39:00,ST05,Phúc An Thanh Xuân,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1018,,0
+TXN10073,2026-09-14 08:11:00,ST11,Phúc An Quảng Ninh,PRD14,Giày tập đi chống trượt,2,90000,180000,Cancelled,,Thời trang & Phụ kiện,CUST_1026,,0
+TXN10074,2026-09-09 10:50:00,ST04,Phúc An Hai Bà Trưng,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1044,,0
+TXN10075,2026-09-08 11:52:00,ST15,Phúc An Nha Trang,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1034,,0
+TXN10076,2026-09-08 08:42:00,ST07,Phúc An Hà Đông,PRD13,Sữa công thức pha sẵn 110ml,3,38000,114000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1010,,0
+TXN10077,2026-09-28 09:49:00,ST09,Phúc An Bắc Từ Liêm,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1036,,0
+TXN10078,2026-09-13 18:53:00,ST18,Phúc An Cần Thơ,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1014,,0
+TXN10079,2026-09-09 10:37:00,ST09,Phúc An Bắc Từ Liêm,PRD02,Tã dán size L 54 miếng,5,260000,1300000,Completed,,Tã & Vệ sinh,CUST_1031,,0
+TXN10080,2026-09-14 13:46:00,ST11,Phúc An Quảng Ninh,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1048,,0
+TXN10081,2026-09-04 14:57:00,ST07,Phúc An Hà Đông,PRD09,Vitamin D3 K2 Drops,4,240000,960000,Completed,,Chăm sóc sức khỏe,CUST_1015,,0
+TXN10082,2026-09-01 16:59:00,ST18,Phúc An Cần Thơ,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1008,,0
+TXN10083,2026-09-03 18:58:00,ST11,Phúc An Quảng Ninh,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1014,,0
+TXN10084,2026-09-24 12:32:00,ST10,Phúc An Hải Phòng,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1023,,0
+TXN10085,2026-09-23 12:35:00,ST05,Phúc An Thanh Xuân,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1040,,0
+TXN10086,2026-09-22 19:57:00,ST06,Phúc An Hoàn Kiếm,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1021,,0
+TXN10087,2026-09-13 16:53:00,ST01,Phúc An Ba Đình,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1016,,0
+TXN10088,2026-09-14 20:37:00,ST11,Phúc An Quảng Ninh,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1045,,0
+TXN10089,2026-09-22 11:32:00,ST16,Phúc An Quận 1,PRD06,Quần jean bé trai,1,120000,120000,Completed,,Thời trang & Phụ kiện,CUST_1018,,0
+TXN10090,2026-09-10 16:42:00,ST11,Phúc An Quảng Ninh,PRD03,Bình sữa Silicone 250ml,-2,160000,-320000,Returned,TXN10026,Đồ dùng & Thiết bị cho bé,CUST_1047,Bao bì hư hỏng khi vận chuyển,320000
+TXN10091,2026-09-05 08:02:00,ST08,Phúc An Nam Từ Liêm,PRD16,Kem chống hăm cho bé,1,130000,130000,Completed,,Chăm sóc sức khỏe,CUST_1024,,0
+TXN10092,2026-09-15 14:56:00,ST07,Phúc An Hà Đông,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10093,2026-09-08 10:41:00,ST01,Phúc An Ba Đình,PRD04,Xe đẩy gấp gọn cao cấp,-1,1800000,-1800000,Returned,TXN10090,Đồ dùng & Thiết bị cho bé,CUST_1025,Sản phẩm lỗi nhà sản xuất,1800000
+TXN10094,2026-09-17 15:03:00,ST18,Phúc An Cần Thơ,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1045,,0
+TXN10095,2026-09-05 20:29:00,ST17,Phúc An Tân Bình,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1041,,0
+TXN10096,2026-09-25 15:39:00,ST17,Phúc An Tân Bình,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1029,,0
+TXN10097,2026-09-06 19:55:00,ST16,Phúc An Quận 1,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1015,,0
+TXN10098,2026-09-27 18:17:00,ST17,Phúc An Tân Bình,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1045,,0
+TXN10099,2026-09-09 15:04:00,ST10,Phúc An Hải Phòng,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1001,,0
+TXN10100,2026-09-11 16:05:00,ST05,Phúc An Thanh Xuân,PRD05,Áo thun cotton trẻ em,4,65000,260000,Completed,,Thời trang & Phụ kiện,CUST_1025,,0
+TXN10101,2026-09-23 10:45:00,ST07,Phúc An Hà Đông,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1007,,0
+TXN10102,2026-09-11 16:29:00,ST14,Phúc An Huế,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1009,,0
+TXN10103,2026-09-13 20:37:00,ST01,Phúc An Ba Đình,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1024,,0
+TXN10104,2026-09-01 13:19:00,ST13,Phúc An Đà Nẵng,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1001,,0
+TXN10105,2026-09-26 17:57:00,ST08,Phúc An Nam Từ Liêm,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1044,,0
+TXN10106,2026-09-14 15:01:00,ST13,Phúc An Đà Nẵng,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Cancelled,,Tã & Vệ sinh,CUST_1008,,0
+TXN10107,2026-09-24 10:53:00,ST15,Phúc An Nha Trang,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1024,,0
+TXN10108,2026-09-01 14:37:00,ST01,Phúc An Ba Đình,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1011,,0
+TXN10109,2026-09-05 15:11:00,ST02,Phúc An Cầu Giấy,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1017,,0
+TXN10110,2026-09-07 15:20:00,ST11,Phúc An Quảng Ninh,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1008,,0
+TXN10111,2026-09-09 09:30:00,ST01,Phúc An Ba Đình,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1035,,0
+TXN10112,2026-09-08 18:04:00,ST02,Phúc An Cầu Giấy,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10113,2026-09-27 08:39:00,ST05,Phúc An Thanh Xuân,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1033,,0
+TXN10114,2026-09-22 09:36:00,ST07,Phúc An Hà Đông,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1005,,0
+TXN10115,2026-09-25 13:10:00,ST04,Phúc An Hai Bà Trưng,PRD06,Quần jean bé trai,1,120000,120000,Completed,,Thời trang & Phụ kiện,CUST_1042,,0
+TXN10116,2026-09-19 08:59:00,ST10,Phúc An Hải Phòng,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1039,,0
+TXN10117,2026-09-13 19:12:00,ST03,Phúc An Đống Đa,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1041,,0
+TXN10118,2026-09-04 19:49:00,ST10,Phúc An Hải Phòng,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10119,2026-09-26 08:22:00,ST18,Phúc An Cần Thơ,PRD14,Giày tập đi chống trượt,3,90000,270000,Completed,,Thời trang & Phụ kiện,CUST_1007,,0
+TXN10120,2026-09-03 16:41:00,ST11,Phúc An Quảng Ninh,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1009,,0
+TXN10121,2026-09-04 14:23:00,ST15,Phúc An Nha Trang,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1008,,0
+TXN10122,2026-09-24 16:41:00,ST09,Phúc An Bắc Từ Liêm,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1012,,0
+TXN10123,2026-09-15 14:52:00,ST09,Phúc An Bắc Từ Liêm,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1034,,0
+TXN10124,2026-09-09 15:15:00,ST15,Phúc An Nha Trang,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1033,,0
+TXN10125,2026-09-11 08:31:00,ST11,Phúc An Quảng Ninh,PRD06,Quần jean bé trai,2,120000,240000,Completed,,Thời trang & Phụ kiện,CUST_1048,,0
+TXN10126,2026-09-12 20:16:00,ST11,Phúc An Quảng Ninh,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1023,,0
+TXN10127,2026-09-18 08:33:00,ST07,Phúc An Hà Đông,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1024,,0
+TXN10128,2026-09-16 16:48:00,ST08,Phúc An Nam Từ Liêm,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1037,,0
+TXN10129,2026-09-15 20:01:00,ST03,Phúc An Đống Đa,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10130,2026-09-23 11:19:00,ST12,Phúc An Bắc Ninh,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1044,,0
+TXN10131,2026-09-12 14:47:00,ST18,Phúc An Cần Thơ,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1040,,0
+TXN10132,2026-09-09 12:16:00,ST08,Phúc An Nam Từ Liêm,PRD04,Xe đẩy gấp gọn cao cấp,2,1800000,3600000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1022,,0
+TXN10133,2026-09-11 09:47:00,ST18,Phúc An Cần Thơ,PRD06,Quần jean bé trai,2,120000,240000,Completed,,Thời trang & Phụ kiện,CUST_1027,,0
+TXN10134,2026-09-24 15:17:00,ST17,Phúc An Tân Bình,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10135,2026-09-27 11:18:00,ST08,Phúc An Nam Từ Liêm,PRD12,Nôi rung tự động,3,1150000,3450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1001,,0
+TXN10136,2026-09-01 19:34:00,ST05,Phúc An Thanh Xuân,PRD09,Vitamin D3 K2 Drops,1,240000,240000,Completed,,Chăm sóc sức khỏe,CUST_1035,,0
+TXN10137,2026-09-18 12:44:00,ST05,Phúc An Thanh Xuân,PRD16,Kem chống hăm cho bé,1,130000,130000,Completed,,Chăm sóc sức khỏe,CUST_1037,,0
+TXN10138,2026-09-19 12:30:00,ST16,Phúc An Quận 1,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1047,,0
+TXN10139,2026-09-02 12:55:00,ST16,Phúc An Quận 1,PRD04,Xe đẩy gấp gọn cao cấp,4,1800000,7200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1014,,0
+TXN10140,2026-09-16 09:36:00,ST02,Phúc An Cầu Giấy,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1003,,0
+TXN10141,2026-09-10 09:15:00,ST04,Phúc An Hai Bà Trưng,PRD18,Ghế ngồi ăn dặm,-1,450000,-450000,Returned,TXN10098,Đồ dùng & Thiết bị cho bé,CUST_1001,Hết hạn sử dụng,450000
+TXN10142,2026-09-15 15:19:00,ST14,Phúc An Huế,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1005,,0
+TXN10143,2026-09-02 17:47:00,ST04,Phúc An Hai Bà Trưng,PRD07,Đồ chơi xếp hình thông minh,2,150000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1026,,0
+TXN10144,2026-09-09 18:05:00,ST06,Phúc An Hoàn Kiếm,PRD08,Sách vải tương tác,5,50000,250000,Completed,,Đồ chơi & Sách giáo dục,CUST_1014,,0
+TXN10145,2026-09-03 10:00:00,ST14,Phúc An Huế,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1039,,0
+TXN10146,2026-09-16 12:02:00,ST08,Phúc An Nam Từ Liêm,PRD10,Dầu ăn hướng dương 1L,3,90000,270000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1027,,0
+TXN10147,2026-09-23 15:04:00,ST08,Phúc An Nam Từ Liêm,PRD09,Vitamin D3 K2 Drops,5,240000,1200000,Completed,,Chăm sóc sức khỏe,CUST_1009,,0
+TXN10148,2026-09-22 20:59:00,ST07,Phúc An Hà Đông,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1015,,0
+TXN10149,2026-09-08 18:09:00,ST09,Phúc An Bắc Từ Liêm,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1015,,0
+TXN10150,2026-09-06 20:19:00,ST10,Phúc An Hải Phòng,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1026,,0
+TXN10151,2026-09-23 12:44:00,ST13,Phúc An Đà Nẵng,PRD09,Vitamin D3 K2 Drops,5,240000,1200000,Completed,,Chăm sóc sức khỏe,CUST_1042,,0
+TXN10152,2026-09-16 15:05:00,ST02,Phúc An Cầu Giấy,PRD14,Giày tập đi chống trượt,3,90000,270000,Cancelled,,Thời trang & Phụ kiện,CUST_1013,,0
+TXN10153,2026-09-20 12:01:00,ST03,Phúc An Đống Đa,PRD08,Sách vải tương tác,5,50000,250000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1032,,0
+TXN10154,2026-09-19 08:48:00,ST09,Phúc An Bắc Từ Liêm,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1039,,0
+TXN10155,2026-09-16 16:41:00,ST15,Phúc An Nha Trang,PRD09,Vitamin D3 K2 Drops,5,240000,1200000,Completed,,Chăm sóc sức khỏe,CUST_1049,,0
+TXN10156,2026-09-14 18:52:00,ST16,Phúc An Quận 1,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1032,,0
+TXN10157,2026-09-14 13:20:00,ST04,Phúc An Hai Bà Trưng,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1004,,0
+TXN10158,2026-09-23 15:18:00,ST13,Phúc An Đà Nẵng,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1030,,0
+TXN10159,2026-09-03 13:16:00,ST11,Phúc An Quảng Ninh,PRD04,Xe đẩy gấp gọn cao cấp,-1,1800000,-1800000,Returned,TXN10139,Đồ dùng & Thiết bị cho bé,CUST_1037,Hết hạn sử dụng,1800000
+TXN10160,2026-09-15 14:03:00,ST07,Phúc An Hà Đông,PRD17,Bột ăn dặm vị rau củ,5,75000,375000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1023,,0
+TXN10161,2026-09-25 15:40:00,ST15,Phúc An Nha Trang,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1039,,0
+TXN10162,2026-09-18 10:59:00,ST10,Phúc An Hải Phòng,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1045,,0
+TXN10163,2026-09-04 08:40:00,ST08,Phúc An Nam Từ Liêm,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1015,,0
+TXN10164,2026-09-01 16:26:00,ST03,Phúc An Đống Đa,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1043,,0
+TXN10165,2026-09-04 18:53:00,ST05,Phúc An Thanh Xuân,PRD16,Kem chống hăm cho bé,3,130000,390000,Cancelled,,Chăm sóc sức khỏe,CUST_1029,,0
+TXN10166,2026-09-17 19:17:00,ST14,Phúc An Huế,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1036,,0
+TXN10167,2026-09-15 16:09:00,ST13,Phúc An Đà Nẵng,PRD07,Đồ chơi xếp hình thông minh,5,150000,750000,Completed,,Đồ chơi & Sách giáo dục,CUST_1013,,0
+TXN10168,2026-09-24 10:55:00,ST03,Phúc An Đống Đa,PRD09,Vitamin D3 K2 Drops,-2,240000,-480000,Returned,TXN_UNMATCHED_9519,Chăm sóc sức khỏe,CUST_1032,Bao bì hư hỏng khi vận chuyển,480000
+TXN10169,2026-09-09 08:18:00,ST10,Phúc An Hải Phòng,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1007,,0
+TXN10170,2026-09-28 10:28:00,ST18,Phúc An Cần Thơ,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1022,,0
+TXN10171,2026-09-18 20:34:00,ST13,Phúc An Đà Nẵng,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1028,,0
+TXN10172,2026-09-23 11:36:00,ST13,Phúc An Đà Nẵng,PRD08,Sách vải tương tác,-1,50000,-50000,Returned,TXN10122,Đồ chơi & Sách giáo dục,CUST_1002,Sản phẩm lỗi nhà sản xuất,50000
+TXN10173,2026-09-23 20:24:00,ST13,Phúc An Đà Nẵng,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1042,,0
+TXN10174,2026-09-05 16:37:00,ST11,Phúc An Quảng Ninh,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10175,2026-09-17 15:00:00,ST05,Phúc An Thanh Xuân,PRD14,Giày tập đi chống trượt,2,90000,180000,Completed,,Thời trang & Phụ kiện,CUST_1006,,0
+TXN10176,2026-09-03 15:50:00,ST09,Phúc An Bắc Từ Liêm,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1028,,0
+TXN10177,2026-09-21 09:54:00,ST11,Phúc An Quảng Ninh,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1028,,0
+TXN10178,2026-09-21 19:56:00,ST16,Phúc An Quận 1,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1044,,0
+TXN10179,2026-09-03 11:40:00,ST10,Phúc An Hải Phòng,PRD08,Sách vải tương tác,-2,50000,-100000,Returned,TXN_UNMATCHED_9778,Đồ chơi & Sách giáo dục,CUST_1044,Sản phẩm lỗi nhà sản xuất,100000
+TXN10180,2026-09-21 19:55:00,ST04,Phúc An Hai Bà Trưng,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1020,,0
+TXN10181,2026-09-01 08:20:00,ST02,Phúc An Cầu Giấy,PRD10,Dầu ăn hướng dương 1L,3,90000,270000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1030,,0
+TXN10182,2026-09-14 10:15:00,ST17,Phúc An Tân Bình,PRD14,Giày tập đi chống trượt,2,90000,180000,Completed,,Thời trang & Phụ kiện,CUST_1011,,0
+TXN10183,2026-09-06 10:05:00,ST13,Phúc An Đà Nẵng,PRD20,Sữa dê hữu cơ 400g,2,350000,700000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10184,2026-09-16 17:09:00,ST08,Phúc An Nam Từ Liêm,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1025,,0
+TXN10185,2026-09-15 12:42:00,ST01,Phúc An Ba Đình,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1039,,0
+TXN10186,2026-09-06 09:28:00,ST12,Phúc An Bắc Ninh,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1033,,0
+TXN10187,2026-09-23 12:29:00,ST10,Phúc An Hải Phòng,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1001,,0
+TXN10188,2026-09-04 11:24:00,ST12,Phúc An Bắc Ninh,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1027,,0
+TXN10189,2026-09-01 18:25:00,ST09,Phúc An Bắc Từ Liêm,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1013,,0
+TXN10190,2026-09-20 19:31:00,ST10,Phúc An Hải Phòng,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1041,,0
+TXN10191,2026-09-08 18:12:00,ST09,Phúc An Bắc Từ Liêm,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1003,,0
+TXN10192,2026-09-21 18:02:00,ST10,Phúc An Hải Phòng,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1039,,0
+TXN10193,2026-09-12 19:08:00,ST03,Phúc An Đống Đa,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1006,,0
+TXN10194,2026-09-06 11:08:00,ST18,Phúc An Cần Thơ,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1008,,0
+TXN10195,2026-09-09 10:16:00,ST16,Phúc An Quận 1,PRD10,Dầu ăn hướng dương 1L,-1,90000,-90000,Returned,TXN10020,Sữa & Thực phẩm ăn dặm,CUST_1027,Giao sai sản phẩm,90000
+TXN10196,2026-09-05 20:14:00,ST13,Phúc An Đà Nẵng,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1009,,0
+TXN10197,2026-09-26 14:00:00,ST09,Phúc An Bắc Từ Liêm,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1037,,0
+TXN10198,2026-09-12 18:47:00,ST09,Phúc An Bắc Từ Liêm,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1033,,0
+TXN10199,2026-09-04 18:14:00,ST16,Phúc An Quận 1,PRD01,Sữa bột trẻ em 900g,5,420000,2100000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1042,,0
+TXN10200,2026-09-11 17:14:00,ST03,Phúc An Đống Đa,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1044,,0
+TXN10201,2026-09-21 14:07:00,ST05,Phúc An Thanh Xuân,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1024,,0
+TXN10202,2026-09-16 09:06:00,ST08,Phúc An Nam Từ Liêm,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1015,,0
+TXN10203,2026-09-15 13:42:00,ST18,Phúc An Cần Thơ,PRD14,Giày tập đi chống trượt,2,90000,180000,Completed,,Thời trang & Phụ kiện,CUST_1032,,0
+TXN10204,2026-09-14 18:06:00,ST16,Phúc An Quận 1,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1032,,0
+TXN10205,2026-09-02 19:23:00,ST07,Phúc An Hà Đông,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1024,,0
+TXN10206,2026-09-28 13:06:00,ST12,Phúc An Bắc Ninh,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1041,,0
+TXN10207,2026-09-02 14:17:00,ST07,Phúc An Hà Đông,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1049,,0
+TXN10208,2026-09-22 11:41:00,ST01,Phúc An Ba Đình,PRD02,Tã dán size L 54 miếng,2,260000,520000,Completed,,Tã & Vệ sinh,CUST_1049,,0
+TXN10209,2026-09-05 20:36:00,ST07,Phúc An Hà Đông,PRD03,Bình sữa Silicone 250ml,-1,160000,-160000,Returned,TXN10060,Đồ dùng & Thiết bị cho bé,CUST_1012,Khách đổi ý,160000
+TXN10210,2026-09-11 20:09:00,ST01,Phúc An Ba Đình,PRD09,Vitamin D3 K2 Drops,2,240000,480000,Completed,,Chăm sóc sức khỏe,CUST_1039,,0
+TXN10211,2026-09-18 12:51:00,ST06,Phúc An Hoàn Kiếm,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1002,,0
+TXN10212,2026-09-05 08:22:00,ST08,Phúc An Nam Từ Liêm,PRD19,Ghế rung mẫu mới 2026,1,1200000,1200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1003,,0
+TXN10213,2026-09-06 12:03:00,ST05,Phúc An Thanh Xuân,PRD14,Giày tập đi chống trượt,1,90000,90000,Completed,,Thời trang & Phụ kiện,CUST_1049,,0
+TXN10214,2026-09-24 09:30:00,ST15,Phúc An Nha Trang,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1037,,0
+TXN10215,2026-09-04 15:32:00,ST08,Phúc An Nam Từ Liêm,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1049,,0
+TXN10216,2026-09-10 15:41:00,ST01,Phúc An Ba Đình,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1017,,0
+TXN10217,2026-09-14 18:06:00,ST16,Phúc An Quận 1,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1049,,0
+TXN10218,2026-09-11 17:09:00,ST03,Phúc An Đống Đa,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1002,,0
+TXN10219,2026-09-21 17:35:00,ST11,Phúc An Quảng Ninh,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1002,,0
+TXN10220,2026-09-10 15:32:00,ST14,Phúc An Huế,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1028,,0
+TXN10221,2026-09-28 18:41:00,ST18,Phúc An Cần Thơ,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1023,,0
+TXN10222,2026-09-08 14:21:00,ST15,Phúc An Nha Trang,PRD13,Sữa công thức pha sẵn 110ml,1,38000,38000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10223,2026-09-11 14:20:00,ST09,Phúc An Bắc Từ Liêm,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1032,,0
+TXN10224,2026-09-03 09:53:00,ST03,Phúc An Đống Đa,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1033,,0
+TXN10225,2026-09-24 19:23:00,ST05,Phúc An Thanh Xuân,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1001,,0
+TXN10226,2026-09-18 16:21:00,ST04,Phúc An Hai Bà Trưng,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1019,,0
+TXN10227,2026-09-28 19:03:00,ST10,Phúc An Hải Phòng,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1002,,0
+TXN10228,2026-09-04 17:32:00,ST07,Phúc An Hà Đông,PRD05,Áo thun cotton trẻ em,4,65000,260000,Completed,,Thời trang & Phụ kiện,CUST_1044,,0
+TXN10229,2026-09-08 09:22:00,ST18,Phúc An Cần Thơ,PRD12,Nôi rung tự động,3,1150000,3450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1026,,0
+TXN10230,2026-09-19 11:51:00,ST14,Phúc An Huế,PRD18,Ghế ngồi ăn dặm,-1,450000,-450000,Returned,TXN10169,Đồ dùng & Thiết bị cho bé,CUST_1032,Khách đổi ý,450000
+TXN10231,2026-09-27 19:17:00,ST01,Phúc An Ba Đình,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1006,,0
+TXN10232,2026-09-11 13:00:00,ST06,Phúc An Hoàn Kiếm,PRD05,Áo thun cotton trẻ em,4,65000,260000,Completed,,Thời trang & Phụ kiện,CUST_1032,,0
+TXN10233,2026-09-03 10:47:00,ST01,Phúc An Ba Đình,PRD03,Bình sữa Silicone 250ml,-1,160000,-160000,Returned,TXN10117,Đồ dùng & Thiết bị cho bé,CUST_1004,Sản phẩm lỗi nhà sản xuất,160000
+TXN10234,2026-09-11 10:23:00,ST10,Phúc An Hải Phòng,PRD11,Khăn giấy ướt cao cấp,-1,25000,-25000,Returned,TXN_UNMATCHED_9159,Tã & Vệ sinh,CUST_1011,Bao bì hư hỏng khi vận chuyển,25000
+TXN10235,2026-09-06 20:39:00,ST02,Phúc An Cầu Giấy,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1017,,0
+TXN10236,2026-09-22 14:31:00,ST15,Phúc An Nha Trang,PRD14,Giày tập đi chống trượt,2,90000,180000,Completed,,Thời trang & Phụ kiện,CUST_1038,,0
+TXN10237,2026-09-25 16:07:00,ST12,Phúc An Bắc Ninh,PRD14,Giày tập đi chống trượt,3,90000,270000,Completed,,Thời trang & Phụ kiện,CUST_1024,,0
+TXN10238,2026-09-22 18:37:00,ST16,Phúc An Quận 1,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1005,,0
+TXN10239,2026-09-02 11:25:00,ST02,Phúc An Cầu Giấy,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1034,,0
+TXN10240,2026-09-07 20:08:00,ST09,Phúc An Bắc Từ Liêm,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1006,,0
+TXN10241,2026-09-01 15:47:00,ST14,Phúc An Huế,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1022,,0
+TXN10242,2026-09-18 19:14:00,ST17,Phúc An Tân Bình,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1011,,0
+TXN10243,2026-09-03 14:55:00,ST02,Phúc An Cầu Giấy,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1048,,0
+TXN10244,2026-09-03 13:36:00,ST14,Phúc An Huế,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10245,2026-09-10 09:25:00,ST01,Phúc An Ba Đình,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Completed,,Tã & Vệ sinh,CUST_1033,,0
+TXN10246,2026-09-15 19:58:00,ST12,Phúc An Bắc Ninh,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1009,,0
+TXN10247,2026-09-08 14:37:00,ST13,Phúc An Đà Nẵng,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1006,,0
+TXN10248,2026-09-28 12:47:00,ST11,Phúc An Quảng Ninh,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1016,,0
+TXN10249,2026-09-03 16:40:00,ST04,Phúc An Hai Bà Trưng,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1029,,0
+TXN10250,2026-09-25 13:22:00,ST05,Phúc An Thanh Xuân,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1003,,0
+TXN10251,2026-09-09 11:11:00,ST05,Phúc An Thanh Xuân,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1020,,0
+TXN10252,2026-09-15 20:36:00,ST15,Phúc An Nha Trang,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1036,,0
+TXN10253,2026-09-11 18:20:00,ST05,Phúc An Thanh Xuân,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1019,,0
+TXN10254,2026-09-15 18:19:00,ST09,Phúc An Bắc Từ Liêm,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1026,,0
+TXN10255,2026-09-17 09:19:00,ST15,Phúc An Nha Trang,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1003,,0
+TXN10256,2026-09-12 12:04:00,ST03,Phúc An Đống Đa,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1019,,0
+TXN10257,2026-09-13 15:37:00,ST18,Phúc An Cần Thơ,PRD02,Tã dán size L 54 miếng,5,260000,1300000,Completed,,Tã & Vệ sinh,CUST_1020,,0
+TXN10258,2026-09-21 11:20:00,ST16,Phúc An Quận 1,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1032,,0
+TXN10259,2026-09-15 09:51:00,ST11,Phúc An Quảng Ninh,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1007,,0
+TXN10260,2026-09-02 11:45:00,ST15,Phúc An Nha Trang,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1041,,0
+TXN10261,2026-09-20 10:23:00,ST12,Phúc An Bắc Ninh,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1033,,0
+TXN10262,2026-09-25 13:43:00,ST02,Phúc An Cầu Giấy,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1040,,0
+TXN10263,2026-09-04 16:43:00,ST13,Phúc An Đà Nẵng,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1039,,0
+TXN10264,2026-09-28 10:21:00,ST03,Phúc An Đống Đa,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10265,2026-09-12 12:41:00,ST13,Phúc An Đà Nẵng,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1040,,0
+TXN10266,2026-09-10 16:24:00,ST11,Phúc An Quảng Ninh,PRD05,Áo thun cotton trẻ em,5,65000,325000,Cancelled,,Thời trang & Phụ kiện,CUST_1001,,0
+TXN10267,2026-09-03 18:42:00,ST14,Phúc An Huế,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1011,,0
+TXN10268,2026-09-12 12:11:00,ST07,Phúc An Hà Đông,PRD11,Khăn giấy ướt cao cấp,-1,25000,-25000,Returned,TXN10071,Tã & Vệ sinh,CUST_1028,Bao bì hư hỏng khi vận chuyển,25000
+TXN10269,2026-09-05 09:18:00,ST04,Phúc An Hai Bà Trưng,PRD17,Bột ăn dặm vị rau củ,-1,75000,-75000,Returned,TXN10068,Sữa & Thực phẩm ăn dặm,CUST_1025,Sản phẩm lỗi nhà sản xuất,75000
+TXN10270,2026-09-20 14:09:00,ST06,Phúc An Hoàn Kiếm,PRD06,Quần jean bé trai,5,120000,600000,Cancelled,,Thời trang & Phụ kiện,CUST_1050,,0
+TXN10271,2026-09-26 10:46:00,ST15,Phúc An Nha Trang,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1023,,0
+TXN10272,2026-09-22 19:15:00,ST15,Phúc An Nha Trang,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1031,,0
+TXN10273,2026-09-08 16:15:00,ST10,Phúc An Hải Phòng,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1030,,0
+TXN10274,2026-09-22 17:28:00,ST15,Phúc An Nha Trang,PRD10,Dầu ăn hướng dương 1L,-2,90000,-180000,Returned,TXN_UNMATCHED_9836,Sữa & Thực phẩm ăn dặm,CUST_1042,Sản phẩm lỗi nhà sản xuất,180000
+TXN10275,2026-09-07 20:38:00,ST05,Phúc An Thanh Xuân,PRD09,Vitamin D3 K2 Drops,4,240000,960000,Completed,,Chăm sóc sức khỏe,CUST_1035,,0
+TXN10276,2026-09-28 13:35:00,ST04,Phúc An Hai Bà Trưng,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1007,,0
+TXN10277,2026-09-03 20:10:00,ST09,Phúc An Bắc Từ Liêm,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1016,,0
+TXN10278,2026-09-27 14:05:00,ST08,Phúc An Nam Từ Liêm,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1026,,0
+TXN10279,2026-09-14 08:25:00,ST17,Phúc An Tân Bình,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10280,2026-09-03 13:14:00,ST01,Phúc An Ba Đình,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1049,,0
+TXN10281,2026-09-26 10:08:00,ST02,Phúc An Cầu Giấy,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1002,,0
+TXN10282,2026-09-25 19:30:00,ST15,Phúc An Nha Trang,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1001,,0
+TXN10283,2026-09-01 12:13:00,ST05,Phúc An Thanh Xuân,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10284,2026-09-17 14:07:00,ST10,Phúc An Hải Phòng,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1012,,0
+TXN10285,2026-09-02 11:26:00,ST15,Phúc An Nha Trang,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1005,,0
+TXN10286,2026-09-20 16:01:00,ST17,Phúc An Tân Bình,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1037,,0
+TXN10287,2026-09-10 14:00:00,ST12,Phúc An Bắc Ninh,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1032,,0
+TXN10288,2026-09-06 18:42:00,ST03,Phúc An Đống Đa,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1009,,0
+TXN10289,2026-09-17 16:32:00,ST17,Phúc An Tân Bình,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1041,,0
+TXN10290,2026-09-28 15:02:00,ST13,Phúc An Đà Nẵng,PRD12,Nôi rung tự động,1,1150000,1150000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1035,,0
+TXN10291,2026-09-12 20:04:00,ST12,Phúc An Bắc Ninh,PRD08,Sách vải tương tác,1,50000,50000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1019,,0
+TXN10292,2026-09-25 17:47:00,ST11,Phúc An Quảng Ninh,PRD05,Áo thun cotton trẻ em,3,65000,195000,Completed,,Thời trang & Phụ kiện,CUST_1048,,0
+TXN10293,2026-09-18 13:52:00,ST06,Phúc An Hoàn Kiếm,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1016,,0
+TXN10294,2026-09-21 10:51:00,ST05,Phúc An Thanh Xuân,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1003,,0
+TXN10295,2026-09-02 12:12:00,ST02,Phúc An Cầu Giấy,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Completed,,Đồ chơi & Sách giáo dục,CUST_1020,,0
+TXN10296,2026-09-10 16:25:00,ST18,Phúc An Cần Thơ,PRD16,Kem chống hăm cho bé,1,130000,130000,Completed,,Chăm sóc sức khỏe,CUST_1024,,0
+TXN10297,2026-09-25 18:12:00,ST10,Phúc An Hải Phòng,PRD12,Nôi rung tự động,-2,1150000,-2300000,Returned,TXN10189,Đồ dùng & Thiết bị cho bé,CUST_1033,Hết hạn sử dụng,2300000
+TXN10298,2026-09-14 14:47:00,ST15,Phúc An Nha Trang,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1024,,0
+TXN10299,2026-09-16 19:31:00,ST12,Phúc An Bắc Ninh,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1011,,0
+TXN10300,2026-09-24 14:05:00,ST14,Phúc An Huế,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1049,,0
+TXN10301,2026-09-10 13:06:00,ST03,Phúc An Đống Đa,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1008,,0
+TXN10302,2026-09-10 15:38:00,ST14,Phúc An Huế,PRD06,Quần jean bé trai,4,120000,480000,Cancelled,,Thời trang & Phụ kiện,CUST_1036,,0
+TXN10303,2026-09-12 15:02:00,ST12,Phúc An Bắc Ninh,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1038,,0
+TXN10304,2026-09-21 20:03:00,ST03,Phúc An Đống Đa,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1040,,0
+TXN10305,2026-09-26 19:43:00,ST06,Phúc An Hoàn Kiếm,PRD01,Sữa bột trẻ em 900g,5,420000,2100000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1020,,0
+TXN10306,2026-09-22 20:28:00,ST02,Phúc An Cầu Giấy,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1035,,0
+TXN10307,2026-09-25 18:23:00,ST12,Phúc An Bắc Ninh,PRD13,Sữa công thức pha sẵn 110ml,1,38000,38000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1048,,0
+TXN10308,2026-09-20 10:43:00,ST15,Phúc An Nha Trang,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1025,,0
+TXN10309,2026-09-25 09:36:00,ST05,Phúc An Thanh Xuân,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10310,2026-09-11 18:17:00,ST08,Phúc An Nam Từ Liêm,PRD04,Xe đẩy gấp gọn cao cấp,2,1800000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1025,,0
+TXN10311,2026-09-16 16:24:00,ST18,Phúc An Cần Thơ,PRD04,Xe đẩy gấp gọn cao cấp,3,1800000,5400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1029,,0
+TXN10312,2026-09-23 15:13:00,ST10,Phúc An Hải Phòng,PRD16,Kem chống hăm cho bé,1,130000,130000,Completed,,Chăm sóc sức khỏe,CUST_1018,,0
+TXN10313,2026-09-05 09:28:00,ST06,Phúc An Hoàn Kiếm,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1046,,0
+TXN10314,2026-09-22 13:45:00,ST03,Phúc An Đống Đa,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10315,2026-09-10 10:45:00,ST06,Phúc An Hoàn Kiếm,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1002,,0
+TXN10316,2026-09-04 11:50:00,ST05,Phúc An Thanh Xuân,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1035,,0
+TXN10317,2026-09-12 16:36:00,ST12,Phúc An Bắc Ninh,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1016,,0
+TXN10318,2026-09-20 09:04:00,ST10,Phúc An Hải Phòng,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1041,,0
+TXN10319,2026-09-17 14:49:00,ST14,Phúc An Huế,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1036,,0
+TXN10320,2026-09-11 18:04:00,ST15,Phúc An Nha Trang,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1033,,0
+TXN10321,2026-09-12 10:56:00,ST18,Phúc An Cần Thơ,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1004,,0
+TXN10322,2026-09-14 16:58:00,ST02,Phúc An Cầu Giấy,PRD04,Xe đẩy gấp gọn cao cấp,2,1800000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1033,,0
+TXN10323,2026-09-10 10:10:00,ST11,Phúc An Quảng Ninh,PRD08,Sách vải tương tác,5,50000,250000,Completed,,Đồ chơi & Sách giáo dục,CUST_1014,,0
+TXN10324,2026-09-10 09:16:00,ST07,Phúc An Hà Đông,PRD18,Ghế ngồi ăn dặm,2,450000,900000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1021,,0
+TXN10325,2026-09-21 12:39:00,ST18,Phúc An Cần Thơ,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10326,2026-09-19 17:09:00,ST06,Phúc An Hoàn Kiếm,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1020,,0
+TXN10327,2026-09-11 17:02:00,ST01,Phúc An Ba Đình,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1008,,0
+TXN10328,2026-09-09 18:13:00,ST14,Phúc An Huế,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1007,,0
+TXN10329,2026-09-16 18:34:00,ST10,Phúc An Hải Phòng,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1003,,0
+TXN10330,2026-09-26 20:43:00,ST13,Phúc An Đà Nẵng,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1017,,0
+TXN10331,2026-09-23 08:10:00,ST15,Phúc An Nha Trang,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1033,,0
+TXN10332,2026-09-07 13:38:00,ST05,Phúc An Thanh Xuân,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Cancelled,,Tã & Vệ sinh,CUST_1048,,0
+TXN10333,2026-09-24 13:25:00,ST05,Phúc An Thanh Xuân,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1012,,0
+TXN10334,2026-09-04 13:15:00,ST15,Phúc An Nha Trang,PRD04,Xe đẩy gấp gọn cao cấp,4,1800000,7200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1022,,0
+TXN10335,2026-09-08 10:06:00,ST02,Phúc An Cầu Giấy,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1022,,0
+TXN10336,2026-09-14 11:55:00,ST06,Phúc An Hoàn Kiếm,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1046,,0
+TXN10337,2026-09-07 20:10:00,ST16,Phúc An Quận 1,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1030,,0
+TXN10338,2026-09-10 15:01:00,ST03,Phúc An Đống Đa,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1038,,0
+TXN10339,2026-09-08 11:37:00,ST12,Phúc An Bắc Ninh,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1038,,0
+TXN10340,2026-09-16 17:56:00,ST16,Phúc An Quận 1,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1045,,0
+TXN10341,2026-09-28 09:27:00,ST05,Phúc An Thanh Xuân,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Cancelled,,Chăm sóc sức khỏe,CUST_1008,,0
+TXN10342,2026-09-25 14:23:00,ST02,Phúc An Cầu Giấy,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1027,,0
+TXN10343,2026-09-18 11:23:00,ST18,Phúc An Cần Thơ,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1027,,0
+TXN10344,2026-09-17 15:48:00,ST18,Phúc An Cần Thơ,PRD09,Vitamin D3 K2 Drops,5,240000,1200000,Completed,,Chăm sóc sức khỏe,CUST_1034,,0
+TXN10345,2026-09-04 10:06:00,ST13,Phúc An Đà Nẵng,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1021,,0
+TXN10346,2026-09-12 20:09:00,ST07,Phúc An Hà Đông,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1030,,0
+TXN10347,2026-09-17 08:02:00,ST02,Phúc An Cầu Giấy,PRD05,Áo thun cotton trẻ em,3,65000,195000,Cancelled,,Thời trang & Phụ kiện,CUST_1033,,0
+TXN10348,2026-09-26 15:33:00,ST15,Phúc An Nha Trang,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1028,,0
+TXN10349,2026-09-05 13:59:00,ST11,Phúc An Quảng Ninh,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1047,,0
+TXN10350,2026-09-24 12:37:00,ST11,Phúc An Quảng Ninh,PRD17,Bột ăn dặm vị rau củ,5,75000,375000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1033,,0
+TXN10351,2026-09-16 19:36:00,ST10,Phúc An Hải Phòng,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1005,,0
+TXN10352,2026-09-11 18:07:00,ST14,Phúc An Huế,PRD19,Ghế rung mẫu mới 2026,1,1200000,1200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10353,2026-09-20 15:16:00,ST08,Phúc An Nam Từ Liêm,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1019,,0
+TXN10354,2026-09-06 16:40:00,ST13,Phúc An Đà Nẵng,PRD05,Áo thun cotton trẻ em,2,65000,130000,Cancelled,,Thời trang & Phụ kiện,CUST_1004,,0
+TXN10355,2026-09-02 17:44:00,ST04,Phúc An Hai Bà Trưng,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1035,,0
+TXN10356,2026-09-11 14:09:00,ST14,Phúc An Huế,PRD07,Đồ chơi xếp hình thông minh,5,150000,750000,Completed,,Đồ chơi & Sách giáo dục,CUST_1049,,0
+TXN10357,2026-09-25 17:58:00,ST16,Phúc An Quận 1,PRD02,Tã dán size L 54 miếng,2,260000,520000,Cancelled,,Tã & Vệ sinh,CUST_1017,,0
+TXN10358,2026-09-17 11:35:00,ST11,Phúc An Quảng Ninh,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1044,,0
+TXN10359,2026-09-11 10:29:00,ST18,Phúc An Cần Thơ,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1028,,0
+TXN10360,2026-09-22 20:55:00,ST09,Phúc An Bắc Từ Liêm,PRD20,Sữa dê hữu cơ 400g,2,350000,700000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1030,,0
+TXN10361,2026-09-08 12:35:00,ST10,Phúc An Hải Phòng,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1029,,0
+TXN10362,2026-09-23 11:44:00,ST16,Phúc An Quận 1,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1046,,0
+TXN10363,2026-09-18 20:46:00,ST09,Phúc An Bắc Từ Liêm,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1006,,0
+TXN10364,2026-09-22 16:24:00,ST13,Phúc An Đà Nẵng,PRD12,Nôi rung tự động,-2,1150000,-2300000,Returned,TXN10041,Đồ dùng & Thiết bị cho bé,CUST_1035,Bao bì hư hỏng khi vận chuyển,2300000
+TXN10365,2026-09-12 15:41:00,ST09,Phúc An Bắc Từ Liêm,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1041,,0
+TXN10366,2026-09-27 16:17:00,ST18,Phúc An Cần Thơ,PRD09,Vitamin D3 K2 Drops,1,240000,240000,Completed,,Chăm sóc sức khỏe,CUST_1037,,0
+TXN10367,2026-09-20 19:37:00,ST08,Phúc An Nam Từ Liêm,PRD08,Sách vải tương tác,5,50000,250000,Completed,,Đồ chơi & Sách giáo dục,CUST_1024,,0
+TXN10368,2026-09-08 18:14:00,ST02,Phúc An Cầu Giấy,PRD04,Xe đẩy gấp gọn cao cấp,3,1800000,5400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1029,,0
+TXN10369,2026-09-23 15:06:00,ST05,Phúc An Thanh Xuân,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1049,,0
+TXN10370,2026-09-14 18:59:00,ST16,Phúc An Quận 1,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1046,,0
+TXN10371,2026-09-25 12:20:00,ST10,Phúc An Hải Phòng,PRD02,Tã dán size L 54 miếng,-1,260000,-260000,Returned,TXN10020,Tã & Vệ sinh,CUST_1031,Hết hạn sử dụng,260000
+TXN10372,2026-09-06 14:56:00,ST06,Phúc An Hoàn Kiếm,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1035,,0
+TXN10373,2026-09-06 19:55:00,ST10,Phúc An Hải Phòng,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1033,,0
+TXN10374,2026-09-19 17:06:00,ST11,Phúc An Quảng Ninh,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1021,,0
+TXN10375,2026-09-17 15:56:00,ST05,Phúc An Thanh Xuân,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1032,,0
+TXN10376,2026-09-07 20:07:00,ST11,Phúc An Quảng Ninh,PRD06,Quần jean bé trai,4,120000,480000,Cancelled,,Thời trang & Phụ kiện,CUST_1023,,0
+TXN10377,2026-09-21 12:45:00,ST06,Phúc An Hoàn Kiếm,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1033,,0
+TXN10378,2026-09-26 12:36:00,ST07,Phúc An Hà Đông,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1003,,0
+TXN10379,2026-09-27 14:32:00,ST11,Phúc An Quảng Ninh,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10380,2026-09-06 10:30:00,ST11,Phúc An Quảng Ninh,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1025,,0
+TXN10381,2026-09-13 11:28:00,ST09,Phúc An Bắc Từ Liêm,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Completed,,Tã & Vệ sinh,CUST_1042,,0
+TXN10382,2026-09-24 17:00:00,ST09,Phúc An Bắc Từ Liêm,PRD12,Nôi rung tự động,2,1150000,2300000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1031,,0
+TXN10383,2026-09-02 18:07:00,ST15,Phúc An Nha Trang,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1003,,0
+TXN10384,2026-09-22 16:59:00,ST10,Phúc An Hải Phòng,PRD04,Xe đẩy gấp gọn cao cấp,3,1800000,5400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1040,,0
+TXN10385,2026-09-12 17:14:00,ST08,Phúc An Nam Từ Liêm,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1046,,0
+TXN10386,2026-09-15 19:38:00,ST12,Phúc An Bắc Ninh,PRD14,Giày tập đi chống trượt,5,90000,450000,Cancelled,,Thời trang & Phụ kiện,CUST_1024,,0
+TXN10387,2026-09-16 20:34:00,ST07,Phúc An Hà Đông,PRD08,Sách vải tương tác,5,50000,250000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1050,,0
+TXN10388,2026-09-28 20:05:00,ST17,Phúc An Tân Bình,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1032,,0
+TXN10389,2026-09-03 17:07:00,ST02,Phúc An Cầu Giấy,PRD18,Ghế ngồi ăn dặm,2,450000,900000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10390,2026-09-19 16:09:00,ST06,Phúc An Hoàn Kiếm,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1022,,0
+TXN10391,2026-09-04 18:13:00,ST16,Phúc An Quận 1,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1023,,0
+TXN10392,2026-09-26 08:29:00,ST05,Phúc An Thanh Xuân,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1002,,0
+TXN10393,2026-09-19 08:35:00,ST15,Phúc An Nha Trang,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1027,,0
+TXN10394,2026-09-13 12:52:00,ST01,Phúc An Ba Đình,PRD07,Đồ chơi xếp hình thông minh,1,150000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1042,,0
+TXN10395,2026-09-02 14:22:00,ST03,Phúc An Đống Đa,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1002,,0
+TXN10396,2026-09-16 08:18:00,ST14,Phúc An Huế,PRD06,Quần jean bé trai,-2,120000,-240000,Returned,TXN10196,Thời trang & Phụ kiện,CUST_1026,Hết hạn sử dụng,240000
+TXN10397,2026-09-15 14:24:00,ST03,Phúc An Đống Đa,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1017,,0
+TXN10398,2026-09-04 10:34:00,ST13,Phúc An Đà Nẵng,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1040,,0
+TXN10399,2026-09-27 08:48:00,ST01,Phúc An Ba Đình,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1033,,0
+TXN10400,2026-09-14 16:24:00,ST08,Phúc An Nam Từ Liêm,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1009,,0
+TXN10401,2026-09-05 12:12:00,ST04,Phúc An Hai Bà Trưng,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1043,,0
+TXN10402,2026-09-20 20:59:00,ST01,Phúc An Ba Đình,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1048,,0
+TXN10403,2026-09-04 17:02:00,ST15,Phúc An Nha Trang,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1039,,0
+TXN10404,2026-09-08 19:02:00,ST13,Phúc An Đà Nẵng,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1029,,0
+TXN10405,2026-09-07 20:55:00,ST02,Phúc An Cầu Giấy,PRD05,Áo thun cotton trẻ em,3,65000,195000,Completed,,Thời trang & Phụ kiện,CUST_1042,,0
+TXN10406,2026-09-08 19:36:00,ST11,Phúc An Quảng Ninh,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1026,,0
+TXN10407,2026-09-08 12:56:00,ST05,Phúc An Thanh Xuân,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10408,2026-09-10 12:03:00,ST18,Phúc An Cần Thơ,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1050,,0
+TXN10409,2026-09-21 18:27:00,ST18,Phúc An Cần Thơ,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1025,,0
+TXN10410,2026-09-21 18:24:00,ST17,Phúc An Tân Bình,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Cancelled,,Tã & Vệ sinh,CUST_1024,,0
+TXN10411,2026-09-14 10:19:00,ST13,Phúc An Đà Nẵng,PRD06,Quần jean bé trai,-2,120000,-240000,Returned,TXN10116,Thời trang & Phụ kiện,CUST_1013,Bao bì hư hỏng khi vận chuyển,240000
+TXN10412,2026-09-10 19:09:00,ST15,Phúc An Nha Trang,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1007,,0
+TXN10413,2026-09-14 16:33:00,ST05,Phúc An Thanh Xuân,PRD13,Sữa công thức pha sẵn 110ml,3,38000,114000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1036,,0
+TXN10414,2026-09-07 13:41:00,ST03,Phúc An Đống Đa,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1045,,0
+TXN10415,2026-09-18 19:53:00,ST07,Phúc An Hà Đông,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1020,,0
+TXN10416,2026-09-22 17:38:00,ST02,Phúc An Cầu Giấy,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1001,,0
+TXN10417,2026-09-24 18:35:00,ST07,Phúc An Hà Đông,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1008,,0
+TXN10418,2026-09-10 08:13:00,ST07,Phúc An Hà Đông,PRD04,Xe đẩy gấp gọn cao cấp,-1,1800000,-1800000,Returned,TXN10361,Đồ dùng & Thiết bị cho bé,CUST_1046,Giao sai sản phẩm,1800000
+TXN10419,2026-09-07 14:58:00,ST08,Phúc An Nam Từ Liêm,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10420,2026-09-13 15:34:00,ST12,Phúc An Bắc Ninh,PRD10,Dầu ăn hướng dương 1L,3,90000,270000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1014,,0
+TXN10421,2026-09-17 15:29:00,ST04,Phúc An Hai Bà Trưng,PRD16,Kem chống hăm cho bé,-1,130000,-130000,Returned,TXN10212,Chăm sóc sức khỏe,CUST_1012,Bao bì hư hỏng khi vận chuyển,130000
+TXN10422,2026-09-02 17:55:00,ST08,Phúc An Nam Từ Liêm,PRD05,Áo thun cotton trẻ em,3,65000,195000,Completed,,Thời trang & Phụ kiện,CUST_1023,,0
+TXN10423,2026-09-18 17:37:00,ST14,Phúc An Huế,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1015,,0
+TXN10424,2026-09-11 11:24:00,ST08,Phúc An Nam Từ Liêm,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1028,,0
+TXN10425,2026-09-09 20:52:00,ST16,Phúc An Quận 1,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1034,,0
+TXN10426,2026-09-24 20:22:00,ST06,Phúc An Hoàn Kiếm,PRD05,Áo thun cotton trẻ em,5,65000,325000,Cancelled,,Thời trang & Phụ kiện,CUST_1002,,0
+TXN10427,2026-09-16 10:58:00,ST18,Phúc An Cần Thơ,PRD02,Tã dán size L 54 miếng,1,260000,260000,Completed,,Tã & Vệ sinh,CUST_1032,,0
+TXN10428,2026-09-27 09:52:00,ST02,Phúc An Cầu Giấy,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1023,,0
+TXN10429,2026-09-27 18:14:00,ST03,Phúc An Đống Đa,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1022,,0
+TXN10430,2026-09-17 15:23:00,ST02,Phúc An Cầu Giấy,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1025,,0
+TXN10431,2026-09-16 18:31:00,ST01,Phúc An Ba Đình,PRD01,Sữa bột trẻ em 900g,5,420000,2100000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1022,,0
+TXN10432,2026-09-14 08:01:00,ST17,Phúc An Tân Bình,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1022,,0
+TXN10433,2026-09-01 16:52:00,ST14,Phúc An Huế,PRD06,Quần jean bé trai,1,120000,120000,Completed,,Thời trang & Phụ kiện,CUST_1049,,0
+TXN10434,2026-09-17 10:15:00,ST07,Phúc An Hà Đông,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1042,,0
+TXN10435,2026-09-27 13:17:00,ST13,Phúc An Đà Nẵng,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1006,,0
+TXN10436,2026-09-15 17:15:00,ST08,Phúc An Nam Từ Liêm,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1015,,0
+TXN10437,2026-09-21 18:48:00,ST02,Phúc An Cầu Giấy,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1043,,0
+TXN10438,2026-09-13 16:30:00,ST02,Phúc An Cầu Giấy,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10439,2026-09-03 15:54:00,ST14,Phúc An Huế,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1033,,0
+TXN10440,2026-09-17 08:14:00,ST07,Phúc An Hà Đông,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1008,,0
+TXN10441,2026-09-02 09:43:00,ST09,Phúc An Bắc Từ Liêm,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1044,,0
+TXN10442,2026-09-06 13:01:00,ST07,Phúc An Hà Đông,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1044,,0
+TXN10443,2026-09-03 12:10:00,ST08,Phúc An Nam Từ Liêm,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1005,,0
+TXN10444,2026-09-11 14:48:00,ST05,Phúc An Thanh Xuân,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1039,,0
+TXN10445,2026-09-02 09:27:00,ST08,Phúc An Nam Từ Liêm,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1004,,0
+TXN10446,2026-09-25 17:38:00,ST13,Phúc An Đà Nẵng,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1006,,0
+TXN10447,2026-09-26 15:31:00,ST08,Phúc An Nam Từ Liêm,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10448,2026-09-14 10:43:00,ST13,Phúc An Đà Nẵng,PRD03,Bình sữa Silicone 250ml,-2,160000,-320000,Returned,TXN10366,Đồ dùng & Thiết bị cho bé,CUST_1032,Khách đổi ý,320000
+TXN10449,2026-09-03 09:17:00,ST05,Phúc An Thanh Xuân,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1030,,0
+TXN10450,2026-09-24 14:20:00,ST12,Phúc An Bắc Ninh,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10451,2026-09-10 15:23:00,ST09,Phúc An Bắc Từ Liêm,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1035,,0
+TXN10452,2026-09-06 14:28:00,ST18,Phúc An Cần Thơ,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1040,,0
+TXN10453,2026-09-04 08:05:00,ST12,Phúc An Bắc Ninh,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10454,2026-09-20 20:20:00,ST13,Phúc An Đà Nẵng,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1013,,0
+TXN10455,2026-09-13 20:05:00,ST18,Phúc An Cần Thơ,PRD08,Sách vải tương tác,5,50000,250000,Completed,,Đồ chơi & Sách giáo dục,CUST_1050,,0
+TXN10456,2026-09-06 18:24:00,ST06,Phúc An Hoàn Kiếm,PRD05,Áo thun cotton trẻ em,3,65000,195000,Completed,,Thời trang & Phụ kiện,CUST_1042,,0
+TXN10457,2026-09-09 15:09:00,ST03,Phúc An Đống Đa,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1030,,0
+TXN10458,2026-09-14 12:30:00,ST03,Phúc An Đống Đa,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1019,,0
+TXN10459,2026-09-24 18:31:00,ST07,Phúc An Hà Đông,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1017,,0
+TXN10460,2026-09-10 08:25:00,ST11,Phúc An Quảng Ninh,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1019,,0
+TXN10461,2026-09-15 13:27:00,ST05,Phúc An Thanh Xuân,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10462,2026-09-23 11:30:00,ST11,Phúc An Quảng Ninh,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1026,,0
+TXN10463,2026-09-10 19:44:00,ST16,Phúc An Quận 1,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1037,,0
+TXN10464,2026-09-13 12:52:00,ST13,Phúc An Đà Nẵng,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1026,,0
+TXN10465,2026-09-07 17:34:00,ST06,Phúc An Hoàn Kiếm,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1023,,0
+TXN10466,2026-09-23 11:28:00,ST10,Phúc An Hải Phòng,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1009,,0
+TXN10467,2026-09-05 18:19:00,ST08,Phúc An Nam Từ Liêm,PRD09,Vitamin D3 K2 Drops,2,240000,480000,Completed,,Chăm sóc sức khỏe,CUST_1012,,0
+TXN10468,2026-09-23 14:50:00,ST13,Phúc An Đà Nẵng,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1001,,0
+TXN10469,2026-09-16 17:25:00,ST18,Phúc An Cần Thơ,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1001,,0
+TXN10470,2026-09-18 08:50:00,ST12,Phúc An Bắc Ninh,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10471,2026-09-04 20:15:00,ST12,Phúc An Bắc Ninh,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1034,,0
+TXN10472,2026-09-02 17:41:00,ST13,Phúc An Đà Nẵng,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1032,,0
+TXN10473,2026-09-01 09:16:00,ST08,Phúc An Nam Từ Liêm,PRD17,Bột ăn dặm vị rau củ,-1,75000,-75000,Returned,TXN10201,Sữa & Thực phẩm ăn dặm,CUST_1048,Hết hạn sử dụng,75000
+TXN10474,2026-09-15 20:43:00,ST17,Phúc An Tân Bình,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1025,,0
+TXN10475,2026-09-16 09:18:00,ST14,Phúc An Huế,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1040,,0
+TXN10476,2026-09-12 12:21:00,ST15,Phúc An Nha Trang,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1045,,0
+TXN10477,2026-09-12 15:06:00,ST15,Phúc An Nha Trang,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1001,,0
+TXN10478,2026-09-10 08:51:00,ST04,Phúc An Hai Bà Trưng,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1016,,0
+TXN10479,2026-09-22 20:10:00,ST08,Phúc An Nam Từ Liêm,PRD17,Bột ăn dặm vị rau củ,5,75000,375000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1039,,0
+TXN10480,2026-09-06 13:35:00,ST14,Phúc An Huế,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1005,,0
+TXN10481,2026-09-21 10:11:00,ST14,Phúc An Huế,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1022,,0
+TXN10482,2026-09-07 15:37:00,ST14,Phúc An Huế,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1029,,0
+TXN10483,2026-09-07 12:48:00,ST03,Phúc An Đống Đa,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1003,,0
+TXN10484,2026-09-06 13:20:00,ST07,Phúc An Hà Đông,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1012,,0
+TXN10485,2026-09-22 15:33:00,ST11,Phúc An Quảng Ninh,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10486,2026-09-13 17:07:00,ST12,Phúc An Bắc Ninh,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10487,2026-09-06 18:45:00,ST10,Phúc An Hải Phòng,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10488,2026-09-22 10:20:00,ST04,Phúc An Hai Bà Trưng,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1022,,0
+TXN10489,2026-09-06 13:44:00,ST05,Phúc An Thanh Xuân,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1029,,0
+TXN10490,2026-09-20 10:36:00,ST13,Phúc An Đà Nẵng,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1014,,0
+TXN10491,2026-09-21 16:44:00,ST06,Phúc An Hoàn Kiếm,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1028,,0
+TXN10492,2026-09-10 10:11:00,ST11,Phúc An Quảng Ninh,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1005,,0
+TXN10493,2026-09-28 13:00:00,ST16,Phúc An Quận 1,PRD05,Áo thun cotton trẻ em,4,65000,260000,Completed,,Thời trang & Phụ kiện,CUST_1047,,0
+TXN10494,2026-09-18 16:41:00,ST16,Phúc An Quận 1,PRD14,Giày tập đi chống trượt,4,90000,360000,Cancelled,,Thời trang & Phụ kiện,CUST_1049,,0
+TXN10495,2026-10-14 19:53:00,ST15,Phúc An Nha Trang,PRD16,Kem chống hăm cho bé,1,130000,130000,Completed,,Chăm sóc sức khỏe,CUST_1030,,0
+TXN10496,2026-10-19 08:50:00,ST08,Phúc An Nam Từ Liêm,PRD10,Dầu ăn hướng dương 1L,3,90000,270000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1046,,0
+TXN10497,2026-10-08 16:18:00,ST06,Phúc An Hoàn Kiếm,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1005,,0
+TXN10498,2026-10-18 16:07:00,ST04,Phúc An Hai Bà Trưng,PRD09,Vitamin D3 K2 Drops,-2,240000,-480000,Returned,TXN10388,Chăm sóc sức khỏe,CUST_1012,Khách đổi ý,480000
+TXN10499,2026-10-02 20:46:00,ST15,Phúc An Nha Trang,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10500,2026-10-04 19:53:00,ST08,Phúc An Nam Từ Liêm,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10501,2026-10-09 13:55:00,ST03,Phúc An Đống Đa,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1026,,0
+TXN10502,2026-10-07 20:47:00,ST12,Phúc An Bắc Ninh,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1048,,0
+TXN10503,2026-10-06 17:08:00,ST07,Phúc An Hà Đông,PRD07,Đồ chơi xếp hình thông minh,5,150000,750000,Completed,,Đồ chơi & Sách giáo dục,CUST_1021,,0
+TXN10504,2026-10-12 16:17:00,ST18,Phúc An Cần Thơ,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1039,,0
+TXN10505,2026-10-10 17:17:00,ST17,Phúc An Tân Bình,PRD04,Xe đẩy gấp gọn cao cấp,4,1800000,7200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1036,,0
+TXN10506,2026-10-02 12:55:00,ST05,Phúc An Thanh Xuân,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1033,,0
+TXN10507,2026-10-23 13:53:00,ST08,Phúc An Nam Từ Liêm,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1030,,0
+TXN10508,2026-10-19 18:17:00,ST14,Phúc An Huế,PRD13,Sữa công thức pha sẵn 110ml,1,38000,38000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10509,2026-10-21 20:56:00,ST03,Phúc An Đống Đa,PRD13,Sữa công thức pha sẵn 110ml,3,38000,114000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1023,,0
+TXN10510,2026-10-23 13:29:00,ST16,Phúc An Quận 1,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1010,,0
+TXN10511,2026-10-28 20:54:00,ST03,Phúc An Đống Đa,PRD15,Bộ màu vẽ sáng tạo,3,60000,180000,Completed,,Đồ chơi & Sách giáo dục,CUST_1005,,0
+TXN10512,2026-10-28 09:50:00,ST18,Phúc An Cần Thơ,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1036,,0
+TXN10513,2026-10-27 11:31:00,ST09,Phúc An Bắc Từ Liêm,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1034,,0
+TXN10514,2026-10-18 17:08:00,ST16,Phúc An Quận 1,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Cancelled,,Tã & Vệ sinh,CUST_1031,,0
+TXN10515,2026-10-02 09:40:00,ST15,Phúc An Nha Trang,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1010,,0
+TXN10516,2026-10-15 15:00:00,ST14,Phúc An Huế,PRD07,Đồ chơi xếp hình thông minh,2,150000,300000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1019,,0
+TXN10517,2026-10-21 12:10:00,ST09,Phúc An Bắc Từ Liêm,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1032,,0
+TXN10518,2026-10-09 09:23:00,ST06,Phúc An Hoàn Kiếm,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1001,,0
+TXN10519,2026-10-24 19:48:00,ST08,Phúc An Nam Từ Liêm,PRD14,Giày tập đi chống trượt,1,90000,90000,Completed,,Thời trang & Phụ kiện,CUST_1005,,0
+TXN10520,2026-10-23 09:00:00,ST07,Phúc An Hà Đông,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1045,,0
+TXN10521,2026-10-19 11:33:00,ST15,Phúc An Nha Trang,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1004,,0
+TXN10522,2026-10-27 09:55:00,ST14,Phúc An Huế,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1016,,0
+TXN10523,2026-10-08 14:05:00,ST04,Phúc An Hai Bà Trưng,PRD04,Xe đẩy gấp gọn cao cấp,3,1800000,5400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1024,,0
+TXN10524,2026-10-10 10:24:00,ST05,Phúc An Thanh Xuân,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1016,,0
+TXN10525,2026-10-19 08:39:00,ST06,Phúc An Hoàn Kiếm,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1002,,0
+TXN10526,2026-10-21 19:09:00,ST14,Phúc An Huế,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1049,,0
+TXN10527,2026-10-28 11:05:00,ST04,Phúc An Hai Bà Trưng,PRD05,Áo thun cotton trẻ em,-2,65000,-130000,Returned,TXN10440,Thời trang & Phụ kiện,CUST_1028,Bao bì hư hỏng khi vận chuyển,130000
+TXN10528,2026-10-11 20:08:00,ST08,Phúc An Nam Từ Liêm,PRD09,Vitamin D3 K2 Drops,1,240000,240000,Completed,,Chăm sóc sức khỏe,CUST_1032,,0
+TXN10529,2026-10-08 16:38:00,ST10,Phúc An Hải Phòng,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1027,,0
+TXN10530,2026-10-07 16:38:00,ST17,Phúc An Tân Bình,PRD07,Đồ chơi xếp hình thông minh,-2,150000,-300000,Returned,TXN10246,Đồ chơi & Sách giáo dục,CUST_1020,Hết hạn sử dụng,300000
+TXN10531,2026-10-16 14:07:00,ST08,Phúc An Nam Từ Liêm,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1024,,0
+TXN10532,2026-10-03 16:56:00,ST01,Phúc An Ba Đình,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1012,,0
+TXN10533,2026-10-13 17:26:00,ST12,Phúc An Bắc Ninh,PRD18,Ghế ngồi ăn dặm,2,450000,900000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1050,,0
+TXN10534,2026-10-25 15:49:00,ST03,Phúc An Đống Đa,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10535,2026-10-01 12:13:00,ST02,Phúc An Cầu Giấy,PRD02,Tã dán size L 54 miếng,5,260000,1300000,Completed,,Tã & Vệ sinh,CUST_1033,,0
+TXN10536,2026-10-10 18:45:00,ST17,Phúc An Tân Bình,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1033,,0
+TXN10537,2026-10-03 18:34:00,ST18,Phúc An Cần Thơ,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1043,,0
+TXN10538,2026-10-03 12:05:00,ST17,Phúc An Tân Bình,PRD07,Đồ chơi xếp hình thông minh,5,150000,750000,Completed,,Đồ chơi & Sách giáo dục,CUST_1037,,0
+TXN10539,2026-10-11 14:37:00,ST03,Phúc An Đống Đa,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1012,,0
+TXN10540,2026-10-24 11:03:00,ST08,Phúc An Nam Từ Liêm,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1003,,0
+TXN10541,2026-10-15 17:38:00,ST02,Phúc An Cầu Giấy,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1001,,0
+TXN10542,2026-10-04 08:45:00,ST05,Phúc An Thanh Xuân,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1033,,0
+TXN10543,2026-10-12 16:33:00,ST09,Phúc An Bắc Từ Liêm,PRD06,Quần jean bé trai,2,120000,240000,Completed,,Thời trang & Phụ kiện,CUST_1040,,0
+TXN10544,2026-10-24 20:55:00,ST09,Phúc An Bắc Từ Liêm,PRD04,Xe đẩy gấp gọn cao cấp,-2,1800000,-3600000,Returned,TXN_UNMATCHED_9278,Đồ dùng & Thiết bị cho bé,CUST_1010,Giao sai sản phẩm,3600000
+TXN10545,2026-10-17 09:16:00,ST03,Phúc An Đống Đa,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1043,,0
+TXN10546,2026-10-12 08:31:00,ST06,Phúc An Hoàn Kiếm,PRD12,Nôi rung tự động,3,1150000,3450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1044,,0
+TXN10547,2026-10-25 09:57:00,ST04,Phúc An Hai Bà Trưng,PRD08,Sách vải tương tác,5,50000,250000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1029,,0
+TXN10548,2026-10-01 08:54:00,ST01,Phúc An Ba Đình,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1013,,0
+TXN10549,2026-10-12 14:58:00,ST05,Phúc An Thanh Xuân,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1012,,0
+TXN10550,2026-10-26 19:47:00,ST14,Phúc An Huế,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1031,,0
+TXN10551,2026-10-14 19:20:00,ST09,Phúc An Bắc Từ Liêm,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1046,,0
+TXN10552,2026-10-04 16:43:00,ST02,Phúc An Cầu Giấy,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1002,,0
+TXN10553,2026-10-02 14:04:00,ST15,Phúc An Nha Trang,PRD10,Dầu ăn hướng dương 1L,-2,90000,-180000,Returned,TXN10468,Sữa & Thực phẩm ăn dặm,CUST_1050,Giao sai sản phẩm,180000
+TXN10554,2026-10-01 13:12:00,ST10,Phúc An Hải Phòng,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1035,,0
+TXN10555,2026-10-08 15:23:00,ST16,Phúc An Quận 1,PRD07,Đồ chơi xếp hình thông minh,5,150000,750000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1023,,0
+TXN10556,2026-10-25 20:15:00,ST05,Phúc An Thanh Xuân,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1017,,0
+TXN10557,2026-10-08 16:22:00,ST01,Phúc An Ba Đình,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1026,,0
+TXN10558,2026-10-28 19:46:00,ST10,Phúc An Hải Phòng,PRD04,Xe đẩy gấp gọn cao cấp,5,1800000,9000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1008,,0
+TXN10559,2026-10-08 14:31:00,ST02,Phúc An Cầu Giấy,PRD05,Áo thun cotton trẻ em,3,65000,195000,Cancelled,,Thời trang & Phụ kiện,CUST_1029,,0
+TXN10560,2026-10-03 08:58:00,ST08,Phúc An Nam Từ Liêm,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10561,2026-10-15 19:05:00,ST04,Phúc An Hai Bà Trưng,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1010,,0
+TXN10562,2026-10-03 17:36:00,ST02,Phúc An Cầu Giấy,PRD14,Giày tập đi chống trượt,2,90000,180000,Completed,,Thời trang & Phụ kiện,CUST_1026,,0
+TXN10563,2026-10-08 12:16:00,ST11,Phúc An Quảng Ninh,PRD13,Sữa công thức pha sẵn 110ml,3,38000,114000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1034,,0
+TXN10564,2026-10-11 15:17:00,ST08,Phúc An Nam Từ Liêm,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1041,,0
+TXN10565,2026-10-25 20:37:00,ST04,Phúc An Hai Bà Trưng,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1007,,0
+TXN10566,2026-10-15 15:20:00,ST14,Phúc An Huế,PRD04,Xe đẩy gấp gọn cao cấp,3,1800000,5400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1004,,0
+TXN10567,2026-10-25 11:28:00,ST10,Phúc An Hải Phòng,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1050,,0
+TXN10568,2026-10-03 10:51:00,ST10,Phúc An Hải Phòng,PRD20,Sữa dê hữu cơ 400g,2,350000,700000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1045,,0
+TXN10569,2026-10-27 13:09:00,ST03,Phúc An Đống Đa,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1011,,0
+TXN10570,2026-10-17 08:43:00,ST10,Phúc An Hải Phòng,PRD09,Vitamin D3 K2 Drops,1,240000,240000,Completed,,Chăm sóc sức khỏe,CUST_1029,,0
+TXN10571,2026-10-13 15:35:00,ST18,Phúc An Cần Thơ,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1036,,0
+TXN10572,2026-10-04 20:50:00,ST05,Phúc An Thanh Xuân,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1025,,0
+TXN10573,2026-10-27 20:14:00,ST05,Phúc An Thanh Xuân,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Completed,,Đồ chơi & Sách giáo dục,CUST_1021,,0
+TXN10574,2026-10-22 18:41:00,ST03,Phúc An Đống Đa,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1036,,0
+TXN10575,2026-10-27 09:01:00,ST03,Phúc An Đống Đa,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1010,,0
+TXN10576,2026-10-26 10:05:00,ST11,Phúc An Quảng Ninh,PRD04,Xe đẩy gấp gọn cao cấp,4,1800000,7200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1037,,0
+TXN10577,2026-10-02 10:59:00,ST14,Phúc An Huế,PRD13,Sữa công thức pha sẵn 110ml,1,38000,38000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1009,,0
+TXN10578,2026-10-13 18:27:00,ST06,Phúc An Hoàn Kiếm,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1024,,0
+TXN10579,2026-10-09 12:28:00,ST05,Phúc An Thanh Xuân,PRD02,Tã dán size L 54 miếng,5,260000,1300000,Completed,,Tã & Vệ sinh,CUST_1035,,0
+TXN10580,2026-10-20 11:41:00,ST10,Phúc An Hải Phòng,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1049,,0
+TXN10581,2026-10-16 08:05:00,ST09,Phúc An Bắc Từ Liêm,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10582,2026-10-07 18:56:00,ST17,Phúc An Tân Bình,PRD08,Sách vải tương tác,5,50000,250000,Completed,,Đồ chơi & Sách giáo dục,CUST_1048,,0
+TXN10583,2026-10-26 08:24:00,ST12,Phúc An Bắc Ninh,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1036,,0
+TXN10584,2026-10-12 17:32:00,ST11,Phúc An Quảng Ninh,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1018,,0
+TXN10585,2026-10-01 13:38:00,ST08,Phúc An Nam Từ Liêm,PRD01,Sữa bột trẻ em 900g,-1,420000,-420000,Returned,TXN_UNMATCHED_9483,Sữa & Thực phẩm ăn dặm,CUST_1049,Sản phẩm lỗi nhà sản xuất,420000
+TXN10586,2026-10-17 13:49:00,ST08,Phúc An Nam Từ Liêm,PRD06,Quần jean bé trai,2,120000,240000,Completed,,Thời trang & Phụ kiện,CUST_1039,,0
+TXN10587,2026-10-22 11:17:00,ST18,Phúc An Cần Thơ,PRD02,Tã dán size L 54 miếng,-2,260000,-520000,Returned,TXN10178,Tã & Vệ sinh,CUST_1032,Hết hạn sử dụng,520000
+TXN10588,2026-10-06 11:37:00,ST11,Phúc An Quảng Ninh,PRD12,Nôi rung tự động,1,1150000,1150000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1024,,0
+TXN10589,2026-10-23 19:22:00,ST05,Phúc An Thanh Xuân,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1023,,0
+TXN10590,2026-10-18 12:11:00,ST16,Phúc An Quận 1,PRD02,Tã dán size L 54 miếng,1,260000,260000,Completed,,Tã & Vệ sinh,CUST_1032,,0
+TXN10591,2026-10-08 17:14:00,ST01,Phúc An Ba Đình,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10592,2026-10-11 17:12:00,ST05,Phúc An Thanh Xuân,PRD11,Khăn giấy ướt cao cấp,2,25000,50000,Cancelled,,Tã & Vệ sinh,CUST_1012,,0
+TXN10593,2026-10-26 13:03:00,ST01,Phúc An Ba Đình,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1049,,0
+TXN10594,2026-10-25 09:54:00,ST17,Phúc An Tân Bình,PRD12,Nôi rung tự động,3,1150000,3450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1013,,0
+TXN10595,2026-10-23 18:25:00,ST04,Phúc An Hai Bà Trưng,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1023,,0
+TXN10596,2026-10-05 10:46:00,ST14,Phúc An Huế,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1025,,0
+TXN10597,2026-10-06 19:35:00,ST12,Phúc An Bắc Ninh,PRD08,Sách vải tương tác,5,50000,250000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1035,,0
+TXN10598,2026-10-27 10:24:00,ST10,Phúc An Hải Phòng,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1041,,0
+TXN10599,2026-10-24 08:44:00,ST13,Phúc An Đà Nẵng,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1030,,0
+TXN10600,2026-10-20 13:58:00,ST08,Phúc An Nam Từ Liêm,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1017,,0
+TXN10601,2026-10-05 13:47:00,ST03,Phúc An Đống Đa,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1049,,0
+TXN10602,2026-10-06 18:56:00,ST03,Phúc An Đống Đa,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1020,,0
+TXN10603,2026-10-09 11:15:00,ST03,Phúc An Đống Đa,PRD12,Nôi rung tự động,1,1150000,1150000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10604,2026-10-24 08:03:00,ST13,Phúc An Đà Nẵng,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1025,,0
+TXN10605,2026-10-06 14:31:00,ST13,Phúc An Đà Nẵng,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1022,,0
+TXN10606,2026-10-04 15:50:00,ST08,Phúc An Nam Từ Liêm,PRD06,Quần jean bé trai,1,120000,120000,Completed,,Thời trang & Phụ kiện,CUST_1013,,0
+TXN10607,2026-10-26 08:18:00,ST01,Phúc An Ba Đình,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1019,,0
+TXN10608,2026-10-03 13:10:00,ST13,Phúc An Đà Nẵng,PRD06,Quần jean bé trai,1,120000,120000,Cancelled,,Thời trang & Phụ kiện,CUST_1049,,0
+TXN10609,2026-10-18 09:21:00,ST16,Phúc An Quận 1,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1036,,0
+TXN10610,2026-10-20 14:10:00,ST02,Phúc An Cầu Giấy,PRD04,Xe đẩy gấp gọn cao cấp,2,1800000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1012,,0
+TXN10611,2026-10-07 14:44:00,ST18,Phúc An Cần Thơ,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1041,,0
+TXN10612,2026-10-10 11:06:00,ST02,Phúc An Cầu Giấy,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1019,,0
+TXN10613,2026-10-27 15:09:00,ST02,Phúc An Cầu Giấy,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1012,,0
+TXN10614,2026-10-03 12:52:00,ST16,Phúc An Quận 1,PRD07,Đồ chơi xếp hình thông minh,1,150000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1009,,0
+TXN10615,2026-10-07 10:40:00,ST10,Phúc An Hải Phòng,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1007,,0
+TXN10616,2026-10-10 20:25:00,ST16,Phúc An Quận 1,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1028,,0
+TXN10617,2026-10-03 18:34:00,ST13,Phúc An Đà Nẵng,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1014,,0
+TXN10618,2026-10-12 10:28:00,ST02,Phúc An Cầu Giấy,PRD09,Vitamin D3 K2 Drops,4,240000,960000,Completed,,Chăm sóc sức khỏe,CUST_1031,,0
+TXN10619,2026-10-09 11:53:00,ST09,Phúc An Bắc Từ Liêm,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1019,,0
+TXN10620,2026-10-25 19:42:00,ST04,Phúc An Hai Bà Trưng,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10621,2026-10-26 16:26:00,ST08,Phúc An Nam Từ Liêm,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10622,2026-10-27 16:26:00,ST18,Phúc An Cần Thơ,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1005,,0
+TXN10623,2026-10-16 12:05:00,ST13,Phúc An Đà Nẵng,PRD02,Tã dán size L 54 miếng,5,260000,1300000,Completed,,Tã & Vệ sinh,CUST_1035,,0
+TXN10624,2026-10-17 20:36:00,ST05,Phúc An Thanh Xuân,PRD04,Xe đẩy gấp gọn cao cấp,-1,1800000,-1800000,Returned,TXN_UNMATCHED_9171,Đồ dùng & Thiết bị cho bé,CUST_1012,Bao bì hư hỏng khi vận chuyển,1800000
+TXN10625,2026-10-07 20:12:00,ST05,Phúc An Thanh Xuân,PRD02,Tã dán size L 54 miếng,1,260000,260000,Completed,,Tã & Vệ sinh,CUST_1025,,0
+TXN10626,2026-10-22 14:12:00,ST05,Phúc An Thanh Xuân,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1021,,0
+TXN10627,2026-10-24 20:04:00,ST03,Phúc An Đống Đa,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1036,,0
+TXN10628,2026-10-18 13:54:00,ST09,Phúc An Bắc Từ Liêm,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1023,,0
+TXN10629,2026-10-26 19:39:00,ST17,Phúc An Tân Bình,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1016,,0
+TXN10630,2026-10-05 10:36:00,ST04,Phúc An Hai Bà Trưng,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1039,,0
+TXN10631,2026-10-26 12:55:00,ST18,Phúc An Cần Thơ,PRD12,Nôi rung tự động,3,1150000,3450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10632,2026-10-13 18:31:00,ST16,Phúc An Quận 1,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1042,,0
+TXN10633,2026-10-13 10:39:00,ST13,Phúc An Đà Nẵng,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1039,,0
+TXN10634,2026-10-23 11:03:00,ST16,Phúc An Quận 1,PRD09,Vitamin D3 K2 Drops,1,240000,240000,Completed,,Chăm sóc sức khỏe,CUST_1014,,0
+TXN10635,2026-10-11 20:19:00,ST10,Phúc An Hải Phòng,PRD09,Vitamin D3 K2 Drops,1,240000,240000,Completed,,Chăm sóc sức khỏe,CUST_1031,,0
+TXN10636,2026-10-28 11:08:00,ST10,Phúc An Hải Phòng,PRD15,Bộ màu vẽ sáng tạo,-2,60000,-120000,Returned,TXN10620,Đồ chơi & Sách giáo dục,CUST_1005,Sản phẩm lỗi nhà sản xuất,120000
+TXN10637,2026-10-21 09:12:00,ST15,Phúc An Nha Trang,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1035,,0
+TXN10638,2026-10-25 16:55:00,ST12,Phúc An Bắc Ninh,PRD02,Tã dán size L 54 miếng,2,260000,520000,Completed,,Tã & Vệ sinh,CUST_1023,,0
+TXN10639,2026-10-03 12:45:00,ST17,Phúc An Tân Bình,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1029,,0
+TXN10640,2026-10-19 08:11:00,ST07,Phúc An Hà Đông,PRD07,Đồ chơi xếp hình thông minh,2,150000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1043,,0
+TXN10641,2026-10-02 15:03:00,ST12,Phúc An Bắc Ninh,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Completed,,Đồ chơi & Sách giáo dục,CUST_1011,,0
+TXN10642,2026-10-27 15:32:00,ST13,Phúc An Đà Nẵng,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10643,2026-10-08 13:31:00,ST15,Phúc An Nha Trang,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1047,,0
+TXN10644,2026-10-18 13:22:00,ST06,Phúc An Hoàn Kiếm,PRD09,Vitamin D3 K2 Drops,-2,240000,-480000,Returned,TXN10051,Chăm sóc sức khỏe,CUST_1012,Hết hạn sử dụng,480000
+TXN10645,2026-10-06 17:49:00,ST07,Phúc An Hà Đông,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1009,,0
+TXN10646,2026-10-22 11:17:00,ST14,Phúc An Huế,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1010,,0
+TXN10647,2026-10-16 10:41:00,ST06,Phúc An Hoàn Kiếm,PRD20,Sữa dê hữu cơ 400g,2,350000,700000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1044,,0
+TXN10648,2026-10-09 17:51:00,ST10,Phúc An Hải Phòng,PRD09,Vitamin D3 K2 Drops,4,240000,960000,Completed,,Chăm sóc sức khỏe,CUST_1017,,0
+TXN10649,2026-10-28 13:29:00,ST09,Phúc An Bắc Từ Liêm,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Completed,,Đồ chơi & Sách giáo dục,CUST_1038,,0
+TXN10650,2026-10-22 16:52:00,ST13,Phúc An Đà Nẵng,PRD19,Ghế rung mẫu mới 2026,1,1200000,1200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1007,,0
+TXN10651,2026-10-17 18:53:00,ST12,Phúc An Bắc Ninh,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1046,,0
+TXN10652,2026-10-20 12:19:00,ST04,Phúc An Hai Bà Trưng,PRD16,Kem chống hăm cho bé,3,130000,390000,Completed,,Chăm sóc sức khỏe,CUST_1013,,0
+TXN10653,2026-10-09 18:20:00,ST09,Phúc An Bắc Từ Liêm,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1040,,0
+TXN10654,2026-10-07 10:33:00,ST08,Phúc An Nam Từ Liêm,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1042,,0
+TXN10655,2026-10-22 13:43:00,ST05,Phúc An Thanh Xuân,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1009,,0
+TXN10656,2026-10-10 12:58:00,ST14,Phúc An Huế,PRD13,Sữa công thức pha sẵn 110ml,1,38000,38000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1050,,0
+TXN10657,2026-10-19 19:36:00,ST07,Phúc An Hà Đông,PRD11,Khăn giấy ướt cao cấp,2,25000,50000,Cancelled,,Tã & Vệ sinh,CUST_1027,,0
+TXN10658,2026-10-22 16:40:00,ST16,Phúc An Quận 1,PRD12,Nôi rung tự động,3,1150000,3450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1002,,0
+TXN10659,2026-10-28 10:53:00,ST18,Phúc An Cần Thơ,PRD06,Quần jean bé trai,1,120000,120000,Completed,,Thời trang & Phụ kiện,CUST_1005,,0
+TXN10660,2026-10-16 10:47:00,ST09,Phúc An Bắc Từ Liêm,PRD18,Ghế ngồi ăn dặm,-2,450000,-900000,Returned,TXN10228,Đồ dùng & Thiết bị cho bé,CUST_1029,Sản phẩm lỗi nhà sản xuất,900000
+TXN10661,2026-10-12 11:47:00,ST10,Phúc An Hải Phòng,PRD14,Giày tập đi chống trượt,3,90000,270000,Completed,,Thời trang & Phụ kiện,CUST_1037,,0
+TXN10662,2026-10-09 17:18:00,ST15,Phúc An Nha Trang,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1038,,0
+TXN10663,2026-10-28 18:37:00,ST03,Phúc An Đống Đa,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1019,,0
+TXN10664,2026-10-04 18:24:00,ST17,Phúc An Tân Bình,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1008,,0
+TXN10665,2026-10-28 10:08:00,ST07,Phúc An Hà Đông,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Completed,,Tã & Vệ sinh,CUST_1048,,0
+TXN10666,2026-10-15 10:20:00,ST06,Phúc An Hoàn Kiếm,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10667,2026-10-21 10:20:00,ST02,Phúc An Cầu Giấy,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1001,,0
+TXN10668,2026-10-07 20:49:00,ST06,Phúc An Hoàn Kiếm,PRD19,Ghế rung mẫu mới 2026,-2,1200000,-2400000,Returned,TXN10091,Đồ dùng & Thiết bị cho bé,CUST_1022,Hết hạn sử dụng,2400000
+TXN10669,2026-10-05 17:27:00,ST14,Phúc An Huế,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1017,,0
+TXN10670,2026-10-13 08:02:00,ST18,Phúc An Cần Thơ,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1007,,0
+TXN10671,2026-10-01 13:48:00,ST17,Phúc An Tân Bình,PRD07,Đồ chơi xếp hình thông minh,1,150000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1025,,0
+TXN10672,2026-10-21 19:15:00,ST08,Phúc An Nam Từ Liêm,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10673,2026-10-04 14:32:00,ST10,Phúc An Hải Phòng,PRD06,Quần jean bé trai,1,120000,120000,Completed,,Thời trang & Phụ kiện,CUST_1004,,0
+TXN10674,2026-10-10 12:29:00,ST17,Phúc An Tân Bình,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1036,,0
+TXN10675,2026-10-14 18:08:00,ST11,Phúc An Quảng Ninh,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1006,,0
+TXN10676,2026-10-06 20:25:00,ST01,Phúc An Ba Đình,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1031,,0
+TXN10677,2026-10-07 19:01:00,ST17,Phúc An Tân Bình,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1019,,0
+TXN10678,2026-10-23 18:50:00,ST02,Phúc An Cầu Giấy,PRD13,Sữa công thức pha sẵn 110ml,3,38000,114000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1044,,0
+TXN10679,2026-10-25 16:39:00,ST02,Phúc An Cầu Giấy,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1039,,0
+TXN10680,2026-10-21 08:03:00,ST04,Phúc An Hai Bà Trưng,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1027,,0
+TXN10681,2026-10-04 16:16:00,ST16,Phúc An Quận 1,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1010,,0
+TXN10682,2026-10-10 14:42:00,ST04,Phúc An Hai Bà Trưng,PRD17,Bột ăn dặm vị rau củ,5,75000,375000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10683,2026-10-20 19:08:00,ST14,Phúc An Huế,PRD04,Xe đẩy gấp gọn cao cấp,5,1800000,9000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1019,,0
+TXN10684,2026-10-04 12:07:00,ST04,Phúc An Hai Bà Trưng,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1039,,0
+TXN10685,2026-10-07 20:16:00,ST17,Phúc An Tân Bình,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1003,,0
+TXN10686,2026-10-10 10:02:00,ST18,Phúc An Cần Thơ,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1045,,0
+TXN10687,2026-10-11 11:00:00,ST01,Phúc An Ba Đình,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1013,,0
+TXN10688,2026-10-22 15:09:00,ST03,Phúc An Đống Đa,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1050,,0
+TXN10689,2026-10-09 18:14:00,ST15,Phúc An Nha Trang,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10690,2026-10-02 09:52:00,ST06,Phúc An Hoàn Kiếm,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1020,,0
+TXN10691,2026-10-26 18:20:00,ST14,Phúc An Huế,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1028,,0
+TXN10692,2026-10-01 10:42:00,ST06,Phúc An Hoàn Kiếm,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1008,,0
+TXN10693,2026-10-20 12:56:00,ST03,Phúc An Đống Đa,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1041,,0
+TXN10694,2026-10-04 14:25:00,ST15,Phúc An Nha Trang,PRD09,Vitamin D3 K2 Drops,4,240000,960000,Completed,,Chăm sóc sức khỏe,CUST_1039,,0
+TXN10695,2026-10-26 14:41:00,ST06,Phúc An Hoàn Kiếm,PRD04,Xe đẩy gấp gọn cao cấp,1,1800000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1001,,0
+TXN10696,2026-10-28 10:06:00,ST14,Phúc An Huế,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1003,,0
+TXN10697,2026-10-22 15:11:00,ST13,Phúc An Đà Nẵng,PRD12,Nôi rung tự động,1,1150000,1150000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1013,,0
+TXN10698,2026-10-28 18:56:00,ST05,Phúc An Thanh Xuân,PRD16,Kem chống hăm cho bé,1,130000,130000,Completed,,Chăm sóc sức khỏe,CUST_1028,,0
+TXN10699,2026-10-14 15:02:00,ST03,Phúc An Đống Đa,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1049,,0
+TXN10700,2026-10-01 19:55:00,ST17,Phúc An Tân Bình,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1025,,0
+TXN10701,2026-10-08 18:55:00,ST11,Phúc An Quảng Ninh,PRD17,Bột ăn dặm vị rau củ,5,75000,375000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1033,,0
+TXN10702,2026-10-04 14:42:00,ST08,Phúc An Nam Từ Liêm,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1038,,0
+TXN10703,2026-10-05 16:57:00,ST02,Phúc An Cầu Giấy,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1006,,0
+TXN10704,2026-10-17 15:54:00,ST16,Phúc An Quận 1,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1044,,0
+TXN10705,2026-10-11 11:21:00,ST09,Phúc An Bắc Từ Liêm,PRD02,Tã dán size L 54 miếng,2,260000,520000,Completed,,Tã & Vệ sinh,CUST_1045,,0
+TXN10706,2026-10-18 18:24:00,ST13,Phúc An Đà Nẵng,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1032,,0
+TXN10707,2026-10-15 20:36:00,ST15,Phúc An Nha Trang,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10708,2026-10-11 09:31:00,ST01,Phúc An Ba Đình,PRD04,Xe đẩy gấp gọn cao cấp,4,1800000,7200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10709,2026-10-02 16:35:00,ST01,Phúc An Ba Đình,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1021,,0
+TXN10710,2026-10-21 12:56:00,ST17,Phúc An Tân Bình,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10711,2026-10-11 13:52:00,ST02,Phúc An Cầu Giấy,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1021,,0
+TXN10712,2026-10-18 20:39:00,ST16,Phúc An Quận 1,PRD12,Nôi rung tự động,4,1150000,4600000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1011,,0
+TXN10713,2026-10-04 09:48:00,ST08,Phúc An Nam Từ Liêm,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10714,2026-10-27 18:51:00,ST10,Phúc An Hải Phòng,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1036,,0
+TXN10715,2026-10-23 09:02:00,ST06,Phúc An Hoàn Kiếm,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1035,,0
+TXN10716,2026-10-04 12:39:00,ST07,Phúc An Hà Đông,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1019,,0
+TXN10717,2026-10-07 15:52:00,ST07,Phúc An Hà Đông,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1020,,0
+TXN10718,2026-10-02 18:53:00,ST04,Phúc An Hai Bà Trưng,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1018,,0
+TXN10719,2026-10-17 10:31:00,ST01,Phúc An Ba Đình,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1047,,0
+TXN10720,2026-10-18 14:53:00,ST16,Phúc An Quận 1,PRD17,Bột ăn dặm vị rau củ,-1,75000,-75000,Returned,TXN10132,Sữa & Thực phẩm ăn dặm,CUST_1041,Giao sai sản phẩm,75000
+TXN10721,2026-10-04 14:42:00,ST11,Phúc An Quảng Ninh,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1049,,0
+TXN10722,2026-10-20 19:48:00,ST08,Phúc An Nam Từ Liêm,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1014,,0
+TXN10723,2026-10-10 15:51:00,ST05,Phúc An Thanh Xuân,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1015,,0
+TXN10724,2026-10-23 19:32:00,ST10,Phúc An Hải Phòng,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1031,,0
+TXN10725,2026-10-21 11:12:00,ST07,Phúc An Hà Đông,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1001,,0
+TXN10726,2026-10-22 13:58:00,ST05,Phúc An Thanh Xuân,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1003,,0
+TXN10727,2026-10-23 18:20:00,ST04,Phúc An Hai Bà Trưng,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10728,2026-10-19 17:42:00,ST14,Phúc An Huế,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1023,,0
+TXN10729,2026-10-26 08:33:00,ST04,Phúc An Hai Bà Trưng,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1011,,0
+TXN10730,2026-10-02 18:03:00,ST07,Phúc An Hà Đông,PRD09,Vitamin D3 K2 Drops,-2,240000,-480000,Returned,TXN10150,Chăm sóc sức khỏe,CUST_1012,Khách đổi ý,480000
+TXN10731,2026-10-27 08:44:00,ST10,Phúc An Hải Phòng,PRD07,Đồ chơi xếp hình thông minh,-1,150000,-150000,Returned,TXN10464,Đồ chơi & Sách giáo dục,CUST_1010,Sản phẩm lỗi nhà sản xuất,150000
+TXN10732,2026-10-04 17:55:00,ST18,Phúc An Cần Thơ,PRD08,Sách vải tương tác,-2,50000,-100000,Returned,TXN10713,Đồ chơi & Sách giáo dục,CUST_1032,Hết hạn sử dụng,100000
+TXN10733,2026-10-10 19:42:00,ST02,Phúc An Cầu Giấy,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1016,,0
+TXN10734,2026-10-26 18:20:00,ST18,Phúc An Cần Thơ,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1008,,0
+TXN10735,2026-10-07 17:55:00,ST15,Phúc An Nha Trang,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1038,,0
+TXN10736,2026-10-25 17:34:00,ST07,Phúc An Hà Đông,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1012,,0
+TXN10737,2026-10-06 18:04:00,ST06,Phúc An Hoàn Kiếm,PRD06,Quần jean bé trai,5,120000,600000,Cancelled,,Thời trang & Phụ kiện,CUST_1024,,0
+TXN10738,2026-10-04 14:02:00,ST14,Phúc An Huế,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1028,,0
+TXN10739,2026-10-05 10:37:00,ST09,Phúc An Bắc Từ Liêm,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1008,,0
+TXN10740,2026-10-23 10:02:00,ST05,Phúc An Thanh Xuân,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1028,,0
+TXN10741,2026-10-25 18:39:00,ST10,Phúc An Hải Phòng,PRD16,Kem chống hăm cho bé,5,130000,650000,Completed,,Chăm sóc sức khỏe,CUST_1036,,0
+TXN10742,2026-10-12 09:50:00,ST11,Phúc An Quảng Ninh,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10743,2026-10-17 09:50:00,ST17,Phúc An Tân Bình,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1008,,0
+TXN10744,2026-10-18 14:05:00,ST12,Phúc An Bắc Ninh,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1050,,0
+TXN10745,2026-10-11 13:18:00,ST07,Phúc An Hà Đông,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10746,2026-10-18 20:41:00,ST01,Phúc An Ba Đình,PRD04,Xe đẩy gấp gọn cao cấp,3,1800000,5400000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1028,,0
+TXN10747,2026-10-15 11:57:00,ST08,Phúc An Nam Từ Liêm,PRD02,Tã dán size L 54 miếng,3,260000,780000,Cancelled,,Tã & Vệ sinh,CUST_1037,,0
+TXN10748,2026-10-13 20:07:00,ST13,Phúc An Đà Nẵng,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1041,,0
+TXN10749,2026-10-01 16:52:00,ST12,Phúc An Bắc Ninh,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1036,,0
+TXN10750,2026-10-16 08:18:00,ST07,Phúc An Hà Đông,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1027,,0
+TXN10751,2026-10-04 10:49:00,ST18,Phúc An Cần Thơ,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1017,,0
+TXN10752,2026-10-07 18:40:00,ST07,Phúc An Hà Đông,PRD14,Giày tập đi chống trượt,2,90000,180000,Completed,,Thời trang & Phụ kiện,CUST_1009,,0
+TXN10753,2026-10-18 19:56:00,ST14,Phúc An Huế,PRD03,Bình sữa Silicone 250ml,-1,160000,-160000,Returned,TXN10340,Đồ dùng & Thiết bị cho bé,CUST_1033,Bao bì hư hỏng khi vận chuyển,160000
+TXN10754,2026-10-02 09:04:00,ST02,Phúc An Cầu Giấy,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1020,,0
+TXN10755,2026-10-03 17:52:00,ST08,Phúc An Nam Từ Liêm,PRD09,Vitamin D3 K2 Drops,4,240000,960000,Completed,,Chăm sóc sức khỏe,CUST_1013,,0
+TXN10756,2026-10-15 18:25:00,ST14,Phúc An Huế,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1028,,0
+TXN10757,2026-10-22 09:34:00,ST01,Phúc An Ba Đình,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1048,,0
+TXN10758,2026-10-02 19:54:00,ST03,Phúc An Đống Đa,PRD12,Nôi rung tự động,1,1150000,1150000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1029,,0
+TXN10759,2026-10-10 20:43:00,ST10,Phúc An Hải Phòng,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1013,,0
+TXN10760,2026-10-25 15:24:00,ST13,Phúc An Đà Nẵng,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1046,,0
+TXN10761,2026-10-18 11:08:00,ST13,Phúc An Đà Nẵng,PRD18,Ghế ngồi ăn dặm,2,450000,900000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1035,,0
+TXN10762,2026-10-10 18:56:00,ST12,Phúc An Bắc Ninh,PRD01,Sữa bột trẻ em 900g,5,420000,2100000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1006,,0
+TXN10763,2026-10-05 09:02:00,ST01,Phúc An Ba Đình,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10764,2026-10-18 16:05:00,ST10,Phúc An Hải Phòng,PRD07,Đồ chơi xếp hình thông minh,-1,150000,-150000,Returned,TXN10662,Đồ chơi & Sách giáo dục,CUST_1005,Hết hạn sử dụng,150000
+TXN10765,2026-10-28 16:09:00,ST06,Phúc An Hoàn Kiếm,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1047,,0
+TXN10766,2026-10-27 12:12:00,ST04,Phúc An Hai Bà Trưng,PRD06,Quần jean bé trai,5,120000,600000,Cancelled,,Thời trang & Phụ kiện,CUST_1025,,0
+TXN10767,2026-10-28 08:54:00,ST18,Phúc An Cần Thơ,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1002,,0
+TXN10768,2026-10-03 12:42:00,ST03,Phúc An Đống Đa,PRD09,Vitamin D3 K2 Drops,2,240000,480000,Completed,,Chăm sóc sức khỏe,CUST_1010,,0
+TXN10769,2026-10-24 17:31:00,ST11,Phúc An Quảng Ninh,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1030,,0
+TXN10770,2026-10-04 12:39:00,ST03,Phúc An Đống Đa,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1050,,0
+TXN10771,2026-10-15 13:39:00,ST10,Phúc An Hải Phòng,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10772,2026-10-19 13:51:00,ST11,Phúc An Quảng Ninh,PRD14,Giày tập đi chống trượt,1,90000,90000,Completed,,Thời trang & Phụ kiện,CUST_1005,,0
+TXN10773,2026-10-11 11:50:00,ST08,Phúc An Nam Từ Liêm,PRD14,Giày tập đi chống trượt,3,90000,270000,Completed,,Thời trang & Phụ kiện,CUST_1033,,0
+TXN10774,2026-10-05 18:46:00,ST11,Phúc An Quảng Ninh,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1001,,0
+TXN10775,2026-10-12 20:19:00,ST16,Phúc An Quận 1,PRD18,Ghế ngồi ăn dặm,2,450000,900000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10776,2026-10-21 17:05:00,ST09,Phúc An Bắc Từ Liêm,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1032,,0
+TXN10777,2026-10-09 19:56:00,ST03,Phúc An Đống Đa,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10778,2026-10-21 08:52:00,ST13,Phúc An Đà Nẵng,PRD19,Ghế rung mẫu mới 2026,1,1200000,1200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1049,,0
+TXN10779,2026-10-18 12:34:00,ST18,Phúc An Cần Thơ,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1011,,0
+TXN10780,2026-10-12 14:14:00,ST10,Phúc An Hải Phòng,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1021,,0
+TXN10781,2026-10-17 09:25:00,ST12,Phúc An Bắc Ninh,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10782,2026-10-28 20:39:00,ST06,Phúc An Hoàn Kiếm,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1025,,0
+TXN10783,2026-10-06 10:36:00,ST05,Phúc An Thanh Xuân,PRD16,Kem chống hăm cho bé,1,130000,130000,Completed,,Chăm sóc sức khỏe,CUST_1022,,0
+TXN10784,2026-10-08 20:31:00,ST08,Phúc An Nam Từ Liêm,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1027,,0
+TXN10785,2026-10-08 08:42:00,ST07,Phúc An Hà Đông,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1049,,0
+TXN10786,2026-10-16 15:56:00,ST02,Phúc An Cầu Giấy,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1013,,0
+TXN10787,2026-10-04 19:33:00,ST09,Phúc An Bắc Từ Liêm,PRD09,Vitamin D3 K2 Drops,5,240000,1200000,Completed,,Chăm sóc sức khỏe,CUST_1033,,0
+TXN10788,2026-10-19 10:24:00,ST13,Phúc An Đà Nẵng,PRD12,Nôi rung tự động,1,1150000,1150000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1034,,0
+TXN10789,2026-10-17 12:24:00,ST08,Phúc An Nam Từ Liêm,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1041,,0
+TXN10790,2026-10-27 13:31:00,ST16,Phúc An Quận 1,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1035,,0
+TXN10791,2026-10-05 15:10:00,ST08,Phúc An Nam Từ Liêm,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1001,,0
+TXN10792,2026-10-07 10:11:00,ST06,Phúc An Hoàn Kiếm,PRD12,Nôi rung tự động,1,1150000,1150000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1021,,0
+TXN10793,2026-10-22 11:26:00,ST11,Phúc An Quảng Ninh,PRD04,Xe đẩy gấp gọn cao cấp,4,1800000,7200000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10794,2026-10-16 11:37:00,ST06,Phúc An Hoàn Kiếm,PRD14,Giày tập đi chống trượt,2,90000,180000,Completed,,Thời trang & Phụ kiện,CUST_1006,,0
+TXN10795,2026-10-02 10:36:00,ST06,Phúc An Hoàn Kiếm,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1028,,0
+TXN10796,2026-10-02 17:09:00,ST02,Phúc An Cầu Giấy,PRD06,Quần jean bé trai,2,120000,240000,Completed,,Thời trang & Phụ kiện,CUST_1017,,0
+TXN10797,2026-10-17 14:38:00,ST01,Phúc An Ba Đình,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1005,,0
+TXN10798,2026-10-15 17:30:00,ST16,Phúc An Quận 1,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1031,,0
+TXN10799,2026-10-20 10:50:00,ST06,Phúc An Hoàn Kiếm,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1005,,0
+TXN10800,2026-10-09 10:46:00,ST11,Phúc An Quảng Ninh,PRD15,Bộ màu vẽ sáng tạo,5,60000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1038,,0
+TXN10801,2026-10-03 11:24:00,ST13,Phúc An Đà Nẵng,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1003,,0
+TXN10802,2026-10-07 16:55:00,ST17,Phúc An Tân Bình,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1023,,0
+TXN10803,2026-10-04 10:30:00,ST02,Phúc An Cầu Giấy,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1037,,0
+TXN10804,2026-10-03 15:42:00,ST05,Phúc An Thanh Xuân,PRD20,Sữa dê hữu cơ 400g,1,350000,350000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10805,2026-10-25 18:41:00,ST14,Phúc An Huế,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1010,,0
+TXN10806,2026-10-28 08:44:00,ST17,Phúc An Tân Bình,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1010,,0
+TXN10807,2026-10-26 20:24:00,ST12,Phúc An Bắc Ninh,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1019,,0
+TXN10808,2026-10-04 14:08:00,ST09,Phúc An Bắc Từ Liêm,PRD16,Kem chống hăm cho bé,-1,130000,-130000,Returned,TXN10557,Chăm sóc sức khỏe,CUST_1017,Khách đổi ý,130000
+TXN10809,2026-10-14 12:12:00,ST01,Phúc An Ba Đình,PRD01,Sữa bột trẻ em 900g,5,420000,2100000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1021,,0
+TXN10810,2026-10-04 16:00:00,ST13,Phúc An Đà Nẵng,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1014,,0
+TXN10811,2026-10-14 13:06:00,ST05,Phúc An Thanh Xuân,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1009,,0
+TXN10812,2026-10-09 12:54:00,ST18,Phúc An Cần Thơ,PRD14,Giày tập đi chống trượt,3,90000,270000,Completed,,Thời trang & Phụ kiện,CUST_1046,,0
+TXN10813,2026-10-20 12:43:00,ST13,Phúc An Đà Nẵng,PRD07,Đồ chơi xếp hình thông minh,5,150000,750000,Completed,,Đồ chơi & Sách giáo dục,CUST_1001,,0
+TXN10814,2026-10-26 16:30:00,ST06,Phúc An Hoàn Kiếm,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1045,,0
+TXN10815,2026-10-16 12:19:00,ST12,Phúc An Bắc Ninh,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1013,,0
+TXN10816,2026-10-28 18:07:00,ST08,Phúc An Nam Từ Liêm,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1004,,0
+TXN10817,2026-10-04 11:32:00,ST13,Phúc An Đà Nẵng,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Completed,,Tã & Vệ sinh,CUST_1001,,0
+TXN10818,2026-10-23 18:45:00,ST02,Phúc An Cầu Giấy,PRD06,Quần jean bé trai,1,120000,120000,Completed,,Thời trang & Phụ kiện,CUST_1049,,0
+TXN10819,2026-10-26 09:52:00,ST05,Phúc An Thanh Xuân,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1040,,0
+TXN10820,2026-10-03 09:16:00,ST08,Phúc An Nam Từ Liêm,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1032,,0
+TXN10821,2026-10-02 19:24:00,ST13,Phúc An Đà Nẵng,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1034,,0
+TXN10822,2026-10-10 19:38:00,ST02,Phúc An Cầu Giấy,PRD06,Quần jean bé trai,4,120000,480000,Completed,,Thời trang & Phụ kiện,CUST_1028,,0
+TXN10823,2026-10-15 08:12:00,ST17,Phúc An Tân Bình,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1031,,0
+TXN10824,2026-10-26 17:32:00,ST17,Phúc An Tân Bình,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1008,,0
+TXN10825,2026-10-22 08:23:00,ST08,Phúc An Nam Từ Liêm,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1039,,0
+TXN10826,2026-10-09 20:25:00,ST12,Phúc An Bắc Ninh,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10827,2026-10-07 16:00:00,ST03,Phúc An Đống Đa,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1034,,0
+TXN10828,2026-10-24 16:58:00,ST12,Phúc An Bắc Ninh,PRD12,Nôi rung tự động,2,1150000,2300000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1003,,0
+TXN10829,2026-10-20 11:29:00,ST13,Phúc An Đà Nẵng,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1050,,0
+TXN10830,2026-10-06 14:32:00,ST04,Phúc An Hai Bà Trưng,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1012,,0
+TXN10831,2026-10-10 13:07:00,ST17,Phúc An Tân Bình,PRD09,Vitamin D3 K2 Drops,5,240000,1200000,Completed,,Chăm sóc sức khỏe,CUST_1001,,0
+TXN10832,2026-10-09 19:28:00,ST13,Phúc An Đà Nẵng,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1044,,0
+TXN10833,2026-10-25 13:49:00,ST15,Phúc An Nha Trang,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1005,,0
+TXN10834,2026-10-16 09:16:00,ST03,Phúc An Đống Đa,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1030,,0
+TXN10835,2026-10-22 19:14:00,ST11,Phúc An Quảng Ninh,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1030,,0
+TXN10836,2026-10-18 08:44:00,ST09,Phúc An Bắc Từ Liêm,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1017,,0
+TXN10837,2026-10-13 18:47:00,ST11,Phúc An Quảng Ninh,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10838,2026-10-16 13:22:00,ST07,Phúc An Hà Đông,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10839,2026-10-24 18:59:00,ST07,Phúc An Hà Đông,PRD16,Kem chống hăm cho bé,2,130000,260000,Cancelled,,Chăm sóc sức khỏe,CUST_1023,,0
+TXN10840,2026-10-08 19:15:00,ST09,Phúc An Bắc Từ Liêm,PRD07,Đồ chơi xếp hình thông minh,2,150000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1015,,0
+TXN10841,2026-10-27 11:53:00,ST12,Phúc An Bắc Ninh,PRD05,Áo thun cotton trẻ em,-1,65000,-65000,Returned,TXN_UNMATCHED_9692,Thời trang & Phụ kiện,CUST_1037,Khách đổi ý,65000
+TXN10842,2026-10-22 15:39:00,ST01,Phúc An Ba Đình,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1021,,0
+TXN10843,2026-10-12 17:20:00,ST16,Phúc An Quận 1,PRD19,Ghế rung mẫu mới 2026,4,1200000,4800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1014,,0
+TXN10844,2026-10-06 20:58:00,ST17,Phúc An Tân Bình,PRD09,Vitamin D3 K2 Drops,2,240000,480000,Completed,,Chăm sóc sức khỏe,CUST_1002,,0
+TXN10845,2026-10-25 17:08:00,ST02,Phúc An Cầu Giấy,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1011,,0
+TXN10846,2026-10-18 08:32:00,ST12,Phúc An Bắc Ninh,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1039,,0
+TXN10847,2026-10-15 09:44:00,ST17,Phúc An Tân Bình,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1038,,0
+TXN10848,2026-10-01 18:13:00,ST13,Phúc An Đà Nẵng,PRD19,Ghế rung mẫu mới 2026,3,1200000,3600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1034,,0
+TXN10849,2026-10-12 17:55:00,ST09,Phúc An Bắc Từ Liêm,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1038,,0
+TXN10850,2026-10-08 12:30:00,ST11,Phúc An Quảng Ninh,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1050,,0
+TXN10851,2026-10-14 11:26:00,ST12,Phúc An Bắc Ninh,PRD12,Nôi rung tự động,3,1150000,3450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1034,,0
+TXN10852,2026-10-15 10:36:00,ST05,Phúc An Thanh Xuân,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Cancelled,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10853,2026-10-27 09:46:00,ST09,Phúc An Bắc Từ Liêm,PRD08,Sách vải tương tác,4,50000,200000,Completed,,Đồ chơi & Sách giáo dục,CUST_1030,,0
+TXN10854,2026-10-28 14:12:00,ST05,Phúc An Thanh Xuân,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1015,,0
+TXN10855,2026-10-06 14:31:00,ST05,Phúc An Thanh Xuân,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1027,,0
+TXN10856,2026-10-26 15:19:00,ST09,Phúc An Bắc Từ Liêm,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1034,,0
+TXN10857,2026-10-13 09:44:00,ST06,Phúc An Hoàn Kiếm,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1038,,0
+TXN10858,2026-10-16 18:06:00,ST15,Phúc An Nha Trang,PRD11,Khăn giấy ướt cao cấp,3,25000,75000,Completed,,Tã & Vệ sinh,CUST_1033,,0
+TXN10859,2026-10-12 16:35:00,ST09,Phúc An Bắc Từ Liêm,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1024,,0
+TXN10860,2026-10-04 13:55:00,ST07,Phúc An Hà Đông,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1015,,0
+TXN10861,2026-10-06 20:18:00,ST12,Phúc An Bắc Ninh,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Cancelled,,Tã & Vệ sinh,CUST_1030,,0
+TXN10862,2026-10-16 20:47:00,ST15,Phúc An Nha Trang,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1042,,0
+TXN10863,2026-10-10 15:40:00,ST05,Phúc An Thanh Xuân,PRD06,Quần jean bé trai,3,120000,360000,Completed,,Thời trang & Phụ kiện,CUST_1017,,0
+TXN10864,2026-10-14 18:39:00,ST13,Phúc An Đà Nẵng,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1005,,0
+TXN10865,2026-10-11 11:20:00,ST11,Phúc An Quảng Ninh,PRD10,Dầu ăn hướng dương 1L,3,90000,270000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1029,,0
+TXN10866,2026-10-20 18:25:00,ST09,Phúc An Bắc Từ Liêm,PRD15,Bộ màu vẽ sáng tạo,-2,60000,-120000,Returned,TXN10189,Đồ chơi & Sách giáo dục,CUST_1004,Khách đổi ý,120000
+TXN10867,2026-10-28 08:08:00,ST08,Phúc An Nam Từ Liêm,PRD09,Vitamin D3 K2 Drops,-1,240000,-240000,Returned,TXN10106,Chăm sóc sức khỏe,CUST_1010,Hết hạn sử dụng,240000
+TXN10868,2026-10-04 09:59:00,ST16,Phúc An Quận 1,PRD18,Ghế ngồi ăn dặm,1,450000,450000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1017,,0
+TXN10869,2026-10-25 14:33:00,ST03,Phúc An Đống Đa,PRD04,Xe đẩy gấp gọn cao cấp,5,1800000,9000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1010,,0
+TXN10870,2026-10-05 09:41:00,ST13,Phúc An Đà Nẵng,PRD10,Dầu ăn hướng dương 1L,2,90000,180000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1017,,0
+TXN10871,2026-10-24 12:28:00,ST05,Phúc An Thanh Xuân,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1020,,0
+TXN10872,2026-10-01 08:42:00,ST12,Phúc An Bắc Ninh,PRD11,Khăn giấy ướt cao cấp,4,25000,100000,Completed,,Tã & Vệ sinh,CUST_1024,,0
+TXN10873,2026-10-28 16:59:00,ST09,Phúc An Bắc Từ Liêm,PRD18,Ghế ngồi ăn dặm,2,450000,900000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1005,,0
+TXN10874,2026-10-23 16:11:00,ST15,Phúc An Nha Trang,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1034,,0
+TXN10875,2026-10-21 18:34:00,ST10,Phúc An Hải Phòng,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1006,,0
+TXN10876,2026-10-08 20:05:00,ST15,Phúc An Nha Trang,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1002,,0
+TXN10877,2026-10-09 10:19:00,ST01,Phúc An Ba Đình,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1013,,0
+TXN10878,2026-10-12 12:30:00,ST18,Phúc An Cần Thơ,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1043,,0
+TXN10879,2026-10-25 15:19:00,ST01,Phúc An Ba Đình,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1043,,0
+TXN10880,2026-10-08 20:00:00,ST18,Phúc An Cần Thơ,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10881,2026-10-18 14:25:00,ST08,Phúc An Nam Từ Liêm,PRD06,Quần jean bé trai,4,120000,480000,Cancelled,,Thời trang & Phụ kiện,CUST_1011,,0
+TXN10882,2026-10-27 14:14:00,ST09,Phúc An Bắc Từ Liêm,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10883,2026-10-17 20:51:00,ST09,Phúc An Bắc Từ Liêm,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1023,,0
+TXN10884,2026-10-26 12:26:00,ST07,Phúc An Hà Đông,PRD03,Bình sữa Silicone 250ml,2,160000,320000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10885,2026-10-10 09:40:00,ST15,Phúc An Nha Trang,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1031,,0
+TXN10886,2026-10-23 17:31:00,ST07,Phúc An Hà Đông,PRD11,Khăn giấy ướt cao cấp,2,25000,50000,Completed,,Tã & Vệ sinh,CUST_1011,,0
+TXN10887,2026-10-02 16:01:00,ST06,Phúc An Hoàn Kiếm,PRD04,Xe đẩy gấp gọn cao cấp,3,1800000,5400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1016,,0
+TXN10888,2026-10-05 19:28:00,ST01,Phúc An Ba Đình,PRD08,Sách vải tương tác,2,50000,100000,Completed,,Đồ chơi & Sách giáo dục,CUST_1008,,0
+TXN10889,2026-10-01 15:13:00,ST11,Phúc An Quảng Ninh,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1004,,0
+TXN10890,2026-10-12 15:44:00,ST02,Phúc An Cầu Giấy,PRD11,Khăn giấy ướt cao cấp,2,25000,50000,Completed,,Tã & Vệ sinh,CUST_1040,,0
+TXN10891,2026-10-02 12:49:00,ST13,Phúc An Đà Nẵng,PRD03,Bình sữa Silicone 250ml,4,160000,640000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1004,,0
+TXN10892,2026-10-06 11:57:00,ST09,Phúc An Bắc Từ Liêm,PRD13,Sữa công thức pha sẵn 110ml,1,38000,38000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1025,,0
+TXN10893,2026-10-25 19:15:00,ST13,Phúc An Đà Nẵng,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1003,,0
+TXN10894,2026-10-07 15:47:00,ST04,Phúc An Hai Bà Trưng,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1032,,0
+TXN10895,2026-10-16 14:43:00,ST10,Phúc An Hải Phòng,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1003,,0
+TXN10896,2026-10-24 16:33:00,ST04,Phúc An Hai Bà Trưng,PRD09,Vitamin D3 K2 Drops,3,240000,720000,Completed,,Chăm sóc sức khỏe,CUST_1027,,0
+TXN10897,2026-10-07 13:56:00,ST02,Phúc An Cầu Giấy,PRD07,Đồ chơi xếp hình thông minh,2,150000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1029,,0
+TXN10898,2026-10-21 14:20:00,ST01,Phúc An Ba Đình,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1032,,0
+TXN10899,2026-10-04 14:50:00,ST08,Phúc An Nam Từ Liêm,PRD01,Sữa bột trẻ em 900g,5,420000,2100000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1050,,0
+TXN10900,2026-10-26 19:30:00,ST05,Phúc An Thanh Xuân,PRD12,Nôi rung tự động,-1,1150000,-1150000,Returned,TXN10094,Đồ dùng & Thiết bị cho bé,CUST_1019,Sản phẩm lỗi nhà sản xuất,1150000
+TXN10901,2026-10-22 17:21:00,ST02,Phúc An Cầu Giấy,PRD02,Tã dán size L 54 miếng,2,260000,520000,Completed,,Tã & Vệ sinh,CUST_1021,,0
+TXN10902,2026-10-23 16:50:00,ST04,Phúc An Hai Bà Trưng,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1005,,0
+TXN10903,2026-10-11 16:50:00,ST12,Phúc An Bắc Ninh,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Cancelled,,Đồ chơi & Sách giáo dục,CUST_1018,,0
+TXN10904,2026-10-01 19:24:00,ST12,Phúc An Bắc Ninh,PRD05,Áo thun cotton trẻ em,1,65000,65000,Completed,,Thời trang & Phụ kiện,CUST_1028,,0
+TXN10905,2026-10-16 19:28:00,ST18,Phúc An Cần Thơ,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1042,,0
+TXN10906,2026-10-07 17:11:00,ST18,Phúc An Cần Thơ,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1022,,0
+TXN10907,2026-10-09 17:58:00,ST18,Phúc An Cần Thơ,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1021,,0
+TXN10908,2026-10-05 15:18:00,ST09,Phúc An Bắc Từ Liêm,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1006,,0
+TXN10909,2026-10-01 20:40:00,ST17,Phúc An Tân Bình,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Cancelled,,Sữa & Thực phẩm ăn dặm,CUST_1001,,0
+TXN10910,2026-10-01 17:54:00,ST12,Phúc An Bắc Ninh,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1005,,0
+TXN10911,2026-10-24 09:42:00,ST18,Phúc An Cần Thơ,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1041,,0
+TXN10912,2026-10-22 15:49:00,ST18,Phúc An Cần Thơ,PRD05,Áo thun cotton trẻ em,3,65000,195000,Completed,,Thời trang & Phụ kiện,CUST_1012,,0
+TXN10913,2026-10-11 14:41:00,ST11,Phúc An Quảng Ninh,PRD04,Xe đẩy gấp gọn cao cấp,5,1800000,9000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1026,,0
+TXN10914,2026-10-22 09:02:00,ST05,Phúc An Thanh Xuân,PRD06,Quần jean bé trai,2,120000,240000,Completed,,Thời trang & Phụ kiện,CUST_1046,,0
+TXN10915,2026-10-04 15:12:00,ST04,Phúc An Hai Bà Trưng,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1034,,0
+TXN10916,2026-10-22 15:33:00,ST09,Phúc An Bắc Từ Liêm,PRD02,Tã dán size L 54 miếng,2,260000,520000,Completed,,Tã & Vệ sinh,CUST_1049,,0
+TXN10917,2026-10-20 19:04:00,ST01,Phúc An Ba Đình,PRD07,Đồ chơi xếp hình thông minh,4,150000,600000,Completed,,Đồ chơi & Sách giáo dục,CUST_1014,,0
+TXN10918,2026-10-27 09:29:00,ST02,Phúc An Cầu Giấy,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1026,,0
+TXN10919,2026-10-27 13:50:00,ST02,Phúc An Cầu Giấy,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1045,,0
+TXN10920,2026-10-02 19:04:00,ST10,Phúc An Hải Phòng,PRD03,Bình sữa Silicone 250ml,5,160000,800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1027,,0
+TXN10921,2026-10-04 09:46:00,ST08,Phúc An Nam Từ Liêm,PRD18,Ghế ngồi ăn dặm,2,450000,900000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1009,,0
+TXN10922,2026-10-07 16:42:00,ST08,Phúc An Nam Từ Liêm,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1026,,0
+TXN10923,2026-10-18 19:35:00,ST14,Phúc An Huế,PRD04,Xe đẩy gấp gọn cao cấp,-2,1800000,-3600000,Returned,TXN10720,Đồ dùng & Thiết bị cho bé,CUST_1047,Hết hạn sử dụng,3600000
+TXN10924,2026-10-22 14:56:00,ST04,Phúc An Hai Bà Trưng,PRD06,Quần jean bé trai,5,120000,600000,Completed,,Thời trang & Phụ kiện,CUST_1022,,0
+TXN10925,2026-10-13 16:21:00,ST06,Phúc An Hoàn Kiếm,PRD18,Ghế ngồi ăn dặm,4,450000,1800000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10926,2026-10-12 13:35:00,ST11,Phúc An Quảng Ninh,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1030,,0
+TXN10927,2026-10-27 19:20:00,ST08,Phúc An Nam Từ Liêm,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1043,,0
+TXN10928,2026-10-13 20:35:00,ST09,Phúc An Bắc Từ Liêm,PRD12,Nôi rung tự động,4,1150000,4600000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1048,,0
+TXN10929,2026-10-13 08:46:00,ST02,Phúc An Cầu Giấy,PRD10,Dầu ăn hướng dương 1L,1,90000,90000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1017,,0
+TXN10930,2026-10-17 10:56:00,ST10,Phúc An Hải Phòng,PRD01,Sữa bột trẻ em 900g,2,420000,840000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10931,2026-10-07 13:01:00,ST09,Phúc An Bắc Từ Liêm,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1036,,0
+TXN10932,2026-10-19 17:09:00,ST04,Phúc An Hai Bà Trưng,PRD02,Tã dán size L 54 miếng,3,260000,780000,Completed,,Tã & Vệ sinh,CUST_1001,,0
+TXN10933,2026-10-05 10:16:00,ST12,Phúc An Bắc Ninh,PRD19,Ghế rung mẫu mới 2026,2,1200000,2400000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1008,,0
+TXN10934,2026-10-09 20:19:00,ST03,Phúc An Đống Đa,PRD19,Ghế rung mẫu mới 2026,5,1200000,6000000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1049,,0
+TXN10935,2026-10-07 19:04:00,ST11,Phúc An Quảng Ninh,PRD16,Kem chống hăm cho bé,4,130000,520000,Completed,,Chăm sóc sức khỏe,CUST_1035,,0
+TXN10936,2026-10-27 19:44:00,ST04,Phúc An Hai Bà Trưng,PRD20,Sữa dê hữu cơ 400g,3,350000,1050000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1015,,0
+TXN10937,2026-10-02 19:51:00,ST13,Phúc An Đà Nẵng,PRD03,Bình sữa Silicone 250ml,-2,160000,-320000,Returned,TXN10837,Đồ dùng & Thiết bị cho bé,CUST_1047,Sản phẩm lỗi nhà sản xuất,320000
+TXN10938,2026-10-14 14:59:00,ST04,Phúc An Hai Bà Trưng,PRD08,Sách vải tương tác,-1,50000,-50000,Returned,TXN10648,Đồ chơi & Sách giáo dục,CUST_1022,Sản phẩm lỗi nhà sản xuất,50000
+TXN10939,2026-10-13 08:19:00,ST17,Phúc An Tân Bình,PRD02,Tã dán size L 54 miếng,5,260000,1300000,Completed,,Tã & Vệ sinh,CUST_1014,,0
+TXN10940,2026-10-19 10:20:00,ST17,Phúc An Tân Bình,PRD08,Sách vải tương tác,1,50000,50000,Completed,,Đồ chơi & Sách giáo dục,CUST_1026,,0
+TXN10941,2026-10-22 19:25:00,ST15,Phúc An Nha Trang,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10942,2026-10-03 11:27:00,ST10,Phúc An Hải Phòng,PRD13,Sữa công thức pha sẵn 110ml,2,38000,76000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1023,,0
+TXN10943,2026-10-11 09:30:00,ST02,Phúc An Cầu Giấy,PRD18,Ghế ngồi ăn dặm,3,450000,1350000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1014,,0
+TXN10944,2026-10-03 14:32:00,ST14,Phúc An Huế,PRD05,Áo thun cotton trẻ em,-2,65000,-130000,Returned,TXN10500,Thời trang & Phụ kiện,CUST_1024,Khách đổi ý,130000
+TXN10945,2026-10-13 18:36:00,ST07,Phúc An Hà Đông,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1002,,0
+TXN10946,2026-10-08 11:04:00,ST09,Phúc An Bắc Từ Liêm,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1045,,0
+TXN10947,2026-10-03 09:42:00,ST14,Phúc An Huế,PRD14,Giày tập đi chống trượt,3,90000,270000,Completed,,Thời trang & Phụ kiện,CUST_1026,,0
+TXN10948,2026-10-07 13:22:00,ST01,Phúc An Ba Đình,PRD10,Dầu ăn hướng dương 1L,3,90000,270000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1014,,0
+TXN10949,2026-10-20 20:28:00,ST05,Phúc An Thanh Xuân,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1007,,0
+TXN10950,2026-10-07 18:23:00,ST05,Phúc An Thanh Xuân,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1003,,0
+TXN10951,2026-10-08 17:59:00,ST05,Phúc An Thanh Xuân,PRD10,Dầu ăn hướng dương 1L,3,90000,270000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1047,,0
+TXN10952,2026-10-23 20:07:00,ST10,Phúc An Hải Phòng,PRD15,Bộ màu vẽ sáng tạo,1,60000,60000,Completed,,Đồ chơi & Sách giáo dục,CUST_1023,,0
+TXN10953,2026-10-11 11:47:00,ST18,Phúc An Cần Thơ,PRD07,Đồ chơi xếp hình thông minh,5,150000,750000,Completed,,Đồ chơi & Sách giáo dục,CUST_1046,,0
+TXN10954,2026-10-17 20:16:00,ST18,Phúc An Cần Thơ,PRD16,Kem chống hăm cho bé,2,130000,260000,Completed,,Chăm sóc sức khỏe,CUST_1043,,0
+TXN10955,2026-10-23 19:42:00,ST01,Phúc An Ba Đình,PRD13,Sữa công thức pha sẵn 110ml,5,38000,190000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1047,,0
+TXN10956,2026-10-02 12:10:00,ST02,Phúc An Cầu Giấy,PRD10,Dầu ăn hướng dương 1L,5,90000,450000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1045,,0
+TXN10957,2026-10-09 08:29:00,ST01,Phúc An Ba Đình,PRD03,Bình sữa Silicone 250ml,3,160000,480000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1018,,0
+TXN10958,2026-10-22 18:23:00,ST04,Phúc An Hai Bà Trưng,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1038,,0
+TXN10959,2026-10-08 14:32:00,ST04,Phúc An Hai Bà Trưng,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Completed,,Tã & Vệ sinh,CUST_1035,,0
+TXN10960,2026-10-18 09:11:00,ST07,Phúc An Hà Đông,PRD17,Bột ăn dặm vị rau củ,5,75000,375000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1015,,0
+TXN10961,2026-10-23 08:02:00,ST08,Phúc An Nam Từ Liêm,PRD17,Bột ăn dặm vị rau củ,3,75000,225000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1025,,0
+TXN10962,2026-10-16 14:47:00,ST06,Phúc An Hoàn Kiếm,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1037,,0
+TXN10963,2026-10-12 18:19:00,ST08,Phúc An Nam Từ Liêm,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1028,,0
+TXN10964,2026-10-21 12:56:00,ST13,Phúc An Đà Nẵng,PRD01,Sữa bột trẻ em 900g,3,420000,1260000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1010,,0
+TXN10965,2026-10-08 10:21:00,ST13,Phúc An Đà Nẵng,PRD05,Áo thun cotton trẻ em,4,65000,260000,Completed,,Thời trang & Phụ kiện,CUST_1039,,0
+TXN10966,2026-10-17 18:39:00,ST08,Phúc An Nam Từ Liêm,PRD14,Giày tập đi chống trượt,5,90000,450000,Completed,,Thời trang & Phụ kiện,CUST_1017,,0
+TXN10967,2026-10-05 14:19:00,ST11,Phúc An Quảng Ninh,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1039,,0
+TXN10968,2026-10-07 18:08:00,ST18,Phúc An Cần Thơ,PRD07,Đồ chơi xếp hình thông minh,3,150000,450000,Completed,,Đồ chơi & Sách giáo dục,CUST_1022,,0
+TXN10969,2026-10-23 19:57:00,ST17,Phúc An Tân Bình,PRD05,Áo thun cotton trẻ em,2,65000,130000,Completed,,Thời trang & Phụ kiện,CUST_1026,,0
+TXN10970,2026-10-21 17:58:00,ST06,Phúc An Hoàn Kiếm,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Completed,,Tã & Vệ sinh,CUST_1044,,0
+TXN10971,2026-10-18 19:07:00,ST06,Phúc An Hoàn Kiếm,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1025,,0
+TXN10972,2026-10-25 13:56:00,ST14,Phúc An Huế,PRD14,Giày tập đi chống trượt,4,90000,360000,Completed,,Thời trang & Phụ kiện,CUST_1017,,0
+TXN10973,2026-10-24 18:59:00,ST09,Phúc An Bắc Từ Liêm,PRD05,Áo thun cotton trẻ em,-1,65000,-65000,Returned,TXN10027,Thời trang & Phụ kiện,CUST_1013,Hết hạn sử dụng,65000
+TXN10974,2026-10-25 17:39:00,ST09,Phúc An Bắc Từ Liêm,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1020,,0
+TXN10975,2026-10-08 17:14:00,ST08,Phúc An Nam Từ Liêm,PRD01,Sữa bột trẻ em 900g,1,420000,420000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1025,,0
+TXN10976,2026-10-23 20:30:00,ST05,Phúc An Thanh Xuân,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1004,,0
+TXN10977,2026-10-23 18:23:00,ST06,Phúc An Hoàn Kiếm,PRD13,Sữa công thức pha sẵn 110ml,4,38000,152000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1010,,0
+TXN10978,2026-10-05 10:12:00,ST08,Phúc An Nam Từ Liêm,PRD02,Tã dán size L 54 miếng,1,260000,260000,Completed,,Tã & Vệ sinh,CUST_1003,,0
+TXN10979,2026-10-09 14:14:00,ST07,Phúc An Hà Đông,PRD07,Đồ chơi xếp hình thông minh,2,150000,300000,Completed,,Đồ chơi & Sách giáo dục,CUST_1041,,0
+TXN10980,2026-10-15 17:31:00,ST11,Phúc An Quảng Ninh,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1045,,0
+TXN10981,2026-10-13 20:02:00,ST13,Phúc An Đà Nẵng,PRD11,Khăn giấy ướt cao cấp,5,25000,125000,Completed,,Tã & Vệ sinh,CUST_1018,,0
+TXN10982,2026-10-24 17:38:00,ST18,Phúc An Cần Thơ,PRD17,Bột ăn dặm vị rau củ,1,75000,75000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1047,,0
+TXN10983,2026-10-17 09:28:00,ST15,Phúc An Nha Trang,PRD02,Tã dán size L 54 miếng,5,260000,1300000,Completed,,Tã & Vệ sinh,CUST_1036,,0
+TXN10984,2026-10-18 14:47:00,ST02,Phúc An Cầu Giấy,PRD18,Ghế ngồi ăn dặm,5,450000,2250000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1047,,0
+TXN10985,2026-10-25 18:03:00,ST07,Phúc An Hà Đông,PRD10,Dầu ăn hướng dương 1L,4,90000,360000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1022,,0
+TXN10986,2026-10-10 20:52:00,ST10,Phúc An Hải Phòng,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1034,,0
+TXN10987,2026-10-10 17:58:00,ST02,Phúc An Cầu Giấy,PRD17,Bột ăn dặm vị rau củ,4,75000,300000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1047,,0
+TXN10988,2026-10-27 18:28:00,ST03,Phúc An Đống Đa,PRD17,Bột ăn dặm vị rau củ,2,75000,150000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1008,,0
+TXN10989,2026-10-25 17:57:00,ST18,Phúc An Cần Thơ,PRD05,Áo thun cotton trẻ em,4,65000,260000,Completed,,Thời trang & Phụ kiện,CUST_1040,,0
+TXN10990,2026-10-11 15:01:00,ST06,Phúc An Hoàn Kiếm,PRD15,Bộ màu vẽ sáng tạo,2,60000,120000,Completed,,Đồ chơi & Sách giáo dục,CUST_1049,,0
+TXN10991,2026-10-15 09:16:00,ST11,Phúc An Quảng Ninh,PRD06,Quần jean bé trai,1,120000,120000,Cancelled,,Thời trang & Phụ kiện,CUST_1044,,0
+TXN10992,2026-10-03 09:45:00,ST15,Phúc An Nha Trang,PRD12,Nôi rung tự động,5,1150000,5750000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1019,,0
+TXN10993,2026-10-23 14:46:00,ST17,Phúc An Tân Bình,PRD20,Sữa dê hữu cơ 400g,4,350000,1400000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1042,,0
+TXN10994,2026-10-18 14:02:00,ST06,Phúc An Hoàn Kiếm,PRD11,Khăn giấy ướt cao cấp,2,25000,50000,Completed,,Tã & Vệ sinh,CUST_1041,,0
+TXN10995,2026-10-06 10:11:00,ST02,Phúc An Cầu Giấy,PRD14,Giày tập đi chống trượt,3,90000,270000,Completed,,Thời trang & Phụ kiện,CUST_1037,,0
+TXN10996,2026-10-24 20:28:00,ST10,Phúc An Hải Phòng,PRD06,Quần jean bé trai,2,120000,240000,Completed,,Thời trang & Phụ kiện,CUST_1006,,0
+TXN10997,2026-10-07 08:39:00,ST09,Phúc An Bắc Từ Liêm,PRD01,Sữa bột trẻ em 900g,4,420000,1680000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1026,,0
+TXN10998,2026-10-28 15:34:00,ST01,Phúc An Ba Đình,PRD20,Sữa dê hữu cơ 400g,2,350000,700000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1034,,0
+TXN10999,2026-10-07 17:42:00,ST16,Phúc An Quận 1,PRD15,Bộ màu vẽ sáng tạo,4,60000,240000,Completed,,Đồ chơi & Sách giáo dục,CUST_1045,,0
+TXN11000,2026-10-03 17:38:00,ST01,Phúc An Ba Đình,PRD08,Sách vải tương tác,3,50000,150000,Completed,,Đồ chơi & Sách giáo dục,CUST_1006,,0
+TXN11001,2026-10-20 18:35:00,ST07,Phúc An Hà Đông,PRD02,Tã dán size L 54 miếng,2,260000,520000,Completed,,Tã & Vệ sinh,CUST_1037,,0
+TXN11002,2026-10-02 18:22:00,ST02,Phúc An Cầu Giấy,PRD05,Áo thun cotton trẻ em,5,65000,325000,Completed,,Thời trang & Phụ kiện,CUST_1033,,0
+TXN11003,2026-10-27 17:19:00,ST11,Phúc An Quảng Ninh,PRD03,Bình sữa Silicone 250ml,1,160000,160000,Completed,,Đồ dùng & Thiết bị cho bé,CUST_1022,,0
+TXN11004,2026-10-14 10:10:00,ST10,Phúc An Hải Phòng,PRD20,Sữa dê hữu cơ 400g,5,350000,1750000,Completed,,Sữa & Thực phẩm ăn dặm,CUST_1021,,0
+TXN10102,2026-09-11 16:29:00,ST14,Phúc An Huế,PRD02,Tã dán size L 54 miếng,4,260000,1040000,Completed,,Tã & Vệ sinh,CUST_1006,,0
+TXN10302,2026-09-10 15:38:00,ST14,Phúc An Huế,PRD06,Quần jean bé trai,4,120000,480000,Cancelled,,Thời trang & Phụ kiện,CUST_1006,,0
+TXN10602,2026-10-06 18:56:00,ST03,Phúc An Đống Đa,PRD11,Khăn giấy ướt cao cấp,1,25000,25000,Completed,,Tã & Vệ sinh,CUST_1048,,0
+
